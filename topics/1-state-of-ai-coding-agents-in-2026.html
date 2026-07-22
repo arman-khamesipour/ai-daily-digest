@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>State of AI Coding Agents in 2026 — AI Daily Digest</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; max-width: 720px; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; }
+  h1 { font-size: 1.5rem; }
+  h2 { font-size: 1.1rem; margin-top: 2.5rem; }
+  ul { list-style: none; padding: 0; }
+  li { margin: 0.5rem 0; }
+  a { text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .date { color: #888; font-size: 0.85rem; margin-left: 0.5rem; }
+</style>
+</head>
+<body>
+<p><a href="../index.html">&larr; Back to AI Daily Digest</a></p>
+<h1>State of AI Coding Agents in 2026</h1>
+<p class="date">Researched 2026-07-22 &middot; requested via <a href="https://github.com/arman-khamesipour/ai-daily-digest/issues/1">issue #1</a></p>
+
+<p>A year ago, "AI coding assistant" mostly meant autocomplete and chat-based pair programming: you asked, it suggested, you approved each change. In 2026 the center of gravity has shifted to <strong>agents that run for minutes, hours, or days at a stretch</strong> — planning, editing dozens of files, running shell commands to verify their own work, and committing with descriptive messages, largely unsupervised until a review checkpoint.</p>
+
+<h2>From autocomplete to execution loops</h2>
+<p>The defining architectural change is the move from single prompt-response turns to long-running agent loops. IDE-based tools (Cursor's Tab/Composer, GitHub Copilot) still center on inline suggestions requiring human approval, but CLI- and terminal-native agents like Claude Code, OpenAI Codex, and Devin now operate as background processes: given a task, they plan, execute, test, and iterate across a codebase with minimal supervision, checking in only at defined milestones.</p>
+
+<h2>The major players and how they've converged</h2>
+<p>Cursor, Claude Code, Codex, Copilot, Gemini, and Windsurf have converged on strikingly similar underlying designs even as they compete on execution. Roughly:</p>
+<ul style="list-style: disc; padding-left: 1.5rem;">
+  <li style="margin: 0.4rem 0;"><strong>Cursor</strong> remains the strongest IDE-bound experience — its Tab autocomplete (sharpened after the 2024 Supermaven acquisition) and Composer agent are considered the smoothest path from idea to merged PR for front-end and full-stack work.</li>
+  <li style="margin: 0.4rem 0;"><strong>Claude Code</strong> has become one of the most flexible agent platforms, particularly for terminal-native, long-horizon refactors and agent customization (subagents defined in <code>.claude/agents/</code>), plus persistent cross-session memory features shipped in 2026.</li>
+  <li style="margin: 0.4rem 0;"><strong>Codex, Copilot, and Gemini</strong> continue to push their own agent modes, with the broader industry narrative now being a "composable AI coding stack" — orchestration, execution, and review as separable layers — rather than one tool winning outright.</li>
+</ul>
+<p>The practical consensus among developers is increasingly "use more than one": an IDE-bound tool for tight edit-test loops, plus a terminal agent for large refactors, migrations, and tasks that should run unattended.</p>
+
+<h2>Benchmarks: real progress, but ceilings differ by difficulty</h2>
+<p>On SWE-bench Verified — which tests agents against real GitHub issues and test suites — frontier models have climbed from roughly the low-80% range in early 2026 to the mid-90s by mid-2026 for the leading models. But on harder, more realistic benchmarks like SWE-bench Pro (larger, messier, more production-like repositories), scores are dramatically lower — the leading active model sits around 69%, and scores drop further on commercial/proprietary codebases. The gap between "solves a well-scoped GitHub issue" and "handles a large, messy production repo end-to-end" is still the honest measure of how far agents have to go.</p>
+
+<h2>Multi-agent orchestration becomes mainstream</h2>
+<p>2026 also saw coordination between multiple agents move from experimental to increasingly standard. Claude Code shipped an experimental "Agent Teams" mode, where one session acts as a team lead coordinating teammate agents (each with its own context window) via a shared task list. The "supervisor" pattern — one orchestrator agent delegating to specialized subagents, one level deep — is now the most common production architecture, with purpose-built orchestration tools emerging for teams running many agents across multiple repos simultaneously.</p>
+
+<h2>What this means for engineering teams</h2>
+<p>Anthropic's 2026 agentic coding trends report frames the shift as engineers moving from writing code to supervising the systems that write it — agent supervision, system design, and output review becoming the core skill, rather than hands-on implementation. Traditional development cycles measured in weeks are compressing toward hours or days for well-scoped work. Adoption is broad but delegation is still shallow: developers report using AI in roughly 60% of their work, yet say they can "fully delegate" only 0–20% of tasks without close review. Case studies (e.g., TELUS reporting code shipped roughly 30% faster and hundreds of thousands of engineer-hours saved) show real productivity gains, but human review of agent output — especially for security and correctness — remains a bottleneck and growth area, with agents increasingly being used to review other agents' code at a scale humans can't match alone.</p>
+
+<h2>Bottom line</h2>
+<p>The last year's change isn't a single breakthrough model — it's the shift from "AI suggests, you decide" to "AI executes, you supervise," backed by longer-running agent loops, converging tool architectures, rapidly improving (but still benchmark-dependent) reliability, and the early mainstreaming of multi-agent coordination. The open question heading into 2027 is less "can agents code" and more "how much of the software lifecycle — planning, review, deployment, incident response — can be safely delegated next."</p>
+
+<h2>Sources</h2>
+<ul style="list-style: disc; padding-left: 1.5rem; font-size: 0.9rem;">
+  <li style="margin: 0.3rem 0;"><a href="https://medium.com/@dave-patten/the-state-of-ai-coding-agents-2026-from-pair-programming-to-autonomous-ai-teams-b11f2b39232a">The State of AI Coding Agents (2026): From Pair Programming to Autonomous AI Teams — Medium</a></li>
+  <li style="margin: 0.3rem 0;"><a href="https://thenewstack.io/ai-coding-tool-stack/">Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned — The New Stack</a></li>
+  <li style="margin: 0.3rem 0;"><a href="https://www.totalum.app/blog/cursor-vs-claude-code-2026">Cursor vs Claude Code in 2026: The Honest Verdict for Builders Who Ship — Totalum</a></li>
+  <li style="margin: 0.3rem 0;"><a href="https://tessl.io/blog/8-trends-shaping-software-engineering-in-2026-according-to-anthropics-agentic-coding-report/">8 agentic coding trends shaping software engineering in 2026 — Tessl (summarizing Anthropic's report)</a></li>
+  <li style="margin: 0.3rem 0;"><a href="https://resources.anthropic.com/2026-agentic-coding-trends-report">2026 Agentic Coding Trends Report — Anthropic</a></li>
+  <li style="margin: 0.3rem 0;"><a href="https://agentmarketcap.ai/blog/2026/04/05/anthropic-agentic-coding-trends-report-claude-code-eight-shifts">Anthropic's 2026 Agentic Coding Trends Report: Claude Code and 8 Shifts Reshaping Software Development — AgentMarketCap</a></li>
+  <li style="margin: 0.3rem 0;"><a href="https://www.morphllm.com/swe-bench-pro">SWE-bench Pro Leaderboard (2026) — MorphLLM</a></li>
+  <li style="margin: 0.3rem 0;"><a href="https://www.codeant.ai/blogs/swe-bench-scores">SWE-bench Leaderboard 2026: All Model Scores, Rankings & What They Actually Mean — CodeAnt</a></li>
+  <li style="margin: 0.3rem 0;"><a href="https://addyosmani.com/blog/code-agent-orchestra/">The Code Agent Orchestra — what makes multi-agent coding work — Addy Osmani</a></li>
+  <li style="margin: 0.3rem 0;"><a href="https://shipyard.build/blog/claude-code-multi-agent/">Multi-agent orchestration for Claude Code in 2026 — Shipyard</a></li>
+</ul>
+
+<p><a href="../index.html">&larr; Back to AI Daily Digest</a></p>
+</body>
+</html>
