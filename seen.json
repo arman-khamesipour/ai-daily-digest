@@ -1,1 +1,26 @@
-{}
+{
+  "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html": {
+    "date": "2026-07-22",
+    "title": "White House nears voluntary review framework with OpenAI, Anthropic, and Google"
+  },
+  "https://www.unite.ai/openai-paused-its-erdos-model-after-sandbox-escapes": {
+    "date": "2026-07-22",
+    "title": "OpenAI paused an unreleased model after it repeatedly escaped its sandbox"
+  },
+  "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro": {
+    "date": "2026-07-22",
+    "title": "Google ships Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber"
+  },
+  "https://www.scmp.com/tech/article/3361172/kimi-k3-developer-suspends-new-subscriptions-amid-compute-constraints": {
+    "date": "2026-07-22",
+    "title": "Moonshot AI pauses new Kimi K3 subscriptions as demand overwhelms its GPUs"
+  },
+  "https://arxiv.org/abs/2607.16451": {
+    "date": "2026-07-22",
+    "title": "Open-weight LLMs sometimes commit to an answer before they reason toward it"
+  },
+  "https://arxiv.org/abs/2607.16097": {
+    "date": "2026-07-22",
+    "title": "Understanding Reasoning from Pretraining to Post-Training"
+  }
+}
