@@ -22,5 +22,33 @@
   "https://arxiv.org/abs/2607.16097": {
     "date": "2026-07-22",
     "title": "Understanding Reasoning from Pretraining to Post-Training"
+  },
+  "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable": {
+    "date": "2026-07-23",
+    "title": "Treasury threatens sanctions after White House accuses Moonshot AI of distilling Anthropic's Fable"
+  },
+  "https://openai.com/index/introducing-openai-presence": {
+    "date": "2026-07-23",
+    "title": "OpenAI launches Presence, an enterprise platform for voice and chat AI agents"
+  },
+  "https://www.datacenterdynamics.com/en/news/openai-reveals-32gw-data-center-project-in-effingham-county-georgia": {
+    "date": "2026-07-23",
+    "title": "OpenAI plans $30B data center campus in Georgia"
+  },
+  "https://www.cnbc.com/2026/07/21/openai-anthropic-ai-lobbying-spending-q2-2026.html": {
+    "date": "2026-07-23",
+    "title": "Anthropic and OpenAI break Q2 lobbying spending records"
+  },
+  "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents": {
+    "date": "2026-07-23",
+    "title": "Jack Dorsey's Block launches Buzz, a Slack/GitHub rival built for humans and AI agents"
+  },
+  "https://arxiv.org/abs/2607.18532": {
+    "date": "2026-07-23",
+    "title": "Reasoning Fine-Tuning Induces Persistent Latent Policy States"
+  },
+  "https://arxiv.org/abs/2607.19932": {
+    "date": "2026-07-23",
+    "title": "Efficient Chain-of-Modality Reasoning via Progressive Compression for Spoken Language Models"
   }
 }
