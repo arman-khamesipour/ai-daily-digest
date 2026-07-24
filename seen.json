@@ -50,5 +50,29 @@
   "https://arxiv.org/abs/2607.19932": {
     "date": "2026-07-23",
     "title": "Efficient Chain-of-Modality Reasoning via Progressive Compression for Spoken Language Models"
+  },
+  "https://explainx.ai/blog/deepseek-v4-official-release-peak-pricing-mid-july-2026": {
+    "date": "2026-07-24",
+    "title": "DeepSeek graduates V4 from preview to a stable, official release"
+  },
+  "https://hothardware.com/news/amd-advancing-ai-2026-epyc-9006-instinct-mi400x-helios": {
+    "date": "2026-07-24",
+    "title": "AMD lays out its full MI400 lineup and Helios rack platform at Advancing AI 2026"
+  },
+  "https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race": {
+    "date": "2026-07-24",
+    "title": "Google's Gemini delay widens its AI gap with OpenAI and Anthropic"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-is-considering-export-controls-on-ai-technologies-including-banning-local-companies-from-using-tsmc-report-claims-restrictions-would-also-advanced-ai-models-training-data-and-overseas-acquisitions": {
+    "date": "2026-07-24",
+    "title": "China weighs its own export controls on AI models and chip technology"
+  },
+  "https://arxiv.org/abs/2607.20372": {
+    "date": "2026-07-24",
+    "title": "Notes to Self: Can LLMs Benefit from Experiential Abstractions?"
+  },
+  "https://arxiv.org/abs/2607.20121": {
+    "date": "2026-07-24",
+    "title": "OpenSkillRisk: Benchmarking Agent Safety When Using Real-World Risky Third-Party Skills"
   }
 }
