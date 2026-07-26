@@ -102,5 +102,29 @@
   "https://arxiv.org/abs/2607.21279": {
     "date": "2026-07-25",
     "title": "A Unified Moral-Value Dataset for Instruction Tuning"
+  },
+  "https://fortune.com/2026/07/24/jensen-huang-open-source-letter-nvidia-kimi": {
+    "date": "2026-07-26",
+    "title": "Nvidia's Jensen Huang makes his first-ever X post to defend open-weight AI"
+  },
+  "https://www.semafor.com/article/07/24/2026/us-lawmakers-propose-ai-kill-switch-bill": {
+    "date": "2026-07-26",
+    "title": "Lawmakers introduce an AI \"Kill Switch Act\" after OpenAI's rogue agent incident"
+  },
+  "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star": {
+    "date": "2026-07-26",
+    "title": "Midjourney quietly acquired the astrology app Co-Star"
+  },
+  "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai": {
+    "date": "2026-07-26",
+    "title": "AI is now the leading stated reason for US tech layoffs"
+  },
+  "https://arxiv.org/abs/2607.20982": {
+    "date": "2026-07-26",
+    "title": "GuardianAgentBench: Where Agents Fail and How to Guard Them"
+  },
+  "https://arxiv.org/abs/2607.21445": {
+    "date": "2026-07-26",
+    "title": "When Trivia Is Not Trivial: Everyday Knowledge Failures in Multilingual LLMs"
   }
 }
