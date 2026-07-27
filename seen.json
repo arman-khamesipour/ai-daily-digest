@@ -126,5 +126,25 @@
   "https://arxiv.org/abs/2607.21445": {
     "date": "2026-07-26",
     "title": "When Trivia Is Not Trivial: Everyday Knowledge Failures in Multilingual LLMs"
+  },
+  "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems": {
+    "date": "2026-07-27",
+    "title": "Moonshot AI publishes Kimi K3's full open weights, the largest open-weight release ever"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-sk-group-enter-usd500-billion-ai-partnership-plan-to-supercharge-ai-infrastructure-with-next-gen-memory-and-massive-ai-factories": {
+    "date": "2026-07-27",
+    "title": "SK Group and Nvidia sign $500B+ partnership spanning AI factories and next-gen memory"
+  },
+  "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it": {
+    "date": "2026-07-27",
+    "title": "A single downed power line briefly destabilized the US East Coast grid via AI data centers"
+  },
+  "https://arxiv.org/abs/2607.21063": {
+    "date": "2026-07-27",
+    "title": "QuantiBias: Benchmarking Quantization-Induced Bias in LLMs"
+  },
+  "https://arxiv.org/abs/2607.20520": {
+    "date": "2026-07-27",
+    "title": "Representation Robustness Under Executable Reasoning Constraints in LLMs for Mathematical Problem Solving"
   }
 }
