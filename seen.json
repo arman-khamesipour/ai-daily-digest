@@ -146,5 +146,25 @@
   "https://arxiv.org/abs/2607.20520": {
     "date": "2026-07-27",
     "title": "Representation Robustness Under Executable Reasoning Constraints in LLMs for Mathematical Problem Solving"
+  },
+  "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html": {
+    "date": "2026-07-28",
+    "title": "Nvidia weighs $250B backstop for OpenAI's Ohio data center"
+  },
+  "https://www.babypips.com/news/headline-ai-chip-stocks-selloff-july-2026-china-lithography-fed": {
+    "date": "2026-07-28",
+    "title": "Chinese DUV lithography breakthrough triggers AI chip stock selloff"
+  },
+  "https://www.prnewswire.com/news-releases/celeris-unveils-celeris-1-unlocking-real-time-ai-through-diffusion-based-language-generation-302835273.html": {
+    "date": "2026-07-28",
+    "title": "Celeris-1: a diffusion-based LLM built for speed"
+  },
+  "https://www.globenewswire.com/news-release/2026/07/27/3333282/0/en/Multiverse-Computing-Announces-Series-C-Fundraising-Targeting-up-to-570M-500M-to-Power-Efficient-AI-from-Edge-to-Cloud.html": {
+    "date": "2026-07-28",
+    "title": "Multiverse Computing raises $570M Series C for efficient AI"
+  },
+  "https://arxiv.org/abs/2607.22520": {
+    "date": "2026-07-28",
+    "title": "The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents"
   }
 }
