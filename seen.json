@@ -166,5 +166,33 @@
   "https://arxiv.org/abs/2607.22520": {
     "date": "2026-07-28",
     "title": "The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents"
+  },
+  "https://thehill.com/policy/technology/5991875-nvidia-launches-open-secure-ai-alliance": {
+    "date": "2026-07-29",
+    "title": "Nvidia and 30+ companies launch the Open Secure AI Alliance"
+  },
+  "https://huggingface.co/blog/security-incident-july-2026": {
+    "date": "2026-07-29",
+    "title": "Hugging Face publishes forensic timeline of the OpenAI agent breach"
+  },
+  "https://www.cnbc.com/2026/07/28/meta-blackrock-partner-on-14-billion-el-paso-data-center.html": {
+    "date": "2026-07-29",
+    "title": "Meta and BlackRock form $14B joint venture for El Paso data center"
+  },
+  "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym": {
+    "date": "2026-07-29",
+    "title": "Microsoft launches MAI-Cyber-1-Flash, a cybersecurity-specialist model"
+  },
+  "https://www.buildfastwithai.com/blogs/ai-news-today-july-28-2026": {
+    "date": "2026-07-29",
+    "title": "AMD and Cerebras partner to pair Helios racks with wafer-scale inference"
+  },
+  "https://arxiv.org/abs/2607.24707": {
+    "date": "2026-07-29",
+    "title": "ERUnderstand: Evaluating Vision-Language Models on Structured ER Diagrams"
+  },
+  "https://arxiv.org/abs/2607.21503": {
+    "date": "2026-07-29",
+    "title": "Agentic Context Management: Solving Agent Memory and Cost as Lifecycle and Architecture Problems"
   }
 }
