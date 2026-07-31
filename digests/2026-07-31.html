@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Daily Digest — 2026-07-31</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; max-width: 720px; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; }
+  h1 { font-size: 1.5rem; }
+  h2 { font-size: 1.1rem; margin-top: 2.5rem; }
+  ul { list-style: none; padding: 0; }
+  li { margin: 0.5rem 0; }
+  a { color: #2563eb; text-decoration: underline; text-decoration-color: rgba(37,99,235,0.45); text-underline-offset: 2px; }
+  a:hover { text-decoration-color: currentColor; }
+  @media (prefers-color-scheme: dark) {
+    a { color: #7aa2f7; text-decoration-color: rgba(122,162,247,0.45); }
+  }
+  .date { color: #888; font-size: 0.85rem; margin-left: 0.5rem; }
+  .item { margin: 1.5rem 0; }
+  .item h3 { font-size: 1.05rem; margin: 0 0 0.3rem; }
+  .item p { margin: 0.3rem 0; }
+  .back { margin-top: 2.5rem; display: block; }
+</style>
+</head>
+<body>
+<h1>AI Daily Digest</h1>
+<p class="date">2026-07-31</p>
+
+<div class="item">
+<h3>Google DeepMind launches Gemini Robotics 2 for whole-body humanoid control</h3>
+<p>DeepMind shipped a new suite of three robotics models — a vision-language-action model, an embodied-reasoning model, and an on-device controller — that let humanoids walk, crouch, and manipulate objects together, not just move their arms. In testing it hit a 92% success rate on a full-body task like unscrewing a light bulb, and DeepMind paired the release with a new "ASIMOV-Agentic" safety benchmark for refusing dangerous commands.</p>
+<p><a href="https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/">deepmind.google</a></p>
+</div>
+
+<div class="item">
+<h3>Microsoft's AI stakes swing its Q4 earnings: $3.2B Anthropic gain, $600M OpenAI writedown</h3>
+<p>Microsoft's Q4 FY26 results showed Azure crossing $100B in annual revenue for the first time, with a $3.2B gain from its Anthropic investment adding 33 cents to EPS, offset by a $600M writedown on its OpenAI stake. CEO Satya Nadella continued pitching Microsoft's own MAI models and Copilot as a cheaper alternative to the two labs it's invested billions in.</p>
+<p><a href="https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/">techcrunch.com</a></p>
+</div>
+
+<div class="item">
+<h3>Nscale buys Anyscale for $1.65B to move up the AI compute stack</h3>
+<p>Data-center and GPU-cloud operator Nscale is acquiring Anyscale, the company behind the open-source Ray distributed-computing framework, in a bid to own the software layer that decides how efficiently GPUs get used, not just the power and racks underneath them.</p>
+<p><a href="https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/">techcrunch.com</a></p>
+</div>
+
+<div class="item">
+<h3>Qualcomm completes acquisition of AI compiler startup Modular</h3>
+<p>Qualcomm closed its all-stock acquisition of Modular, the maker of the Mojo language and MAX inference platform, folding its AI-native software infrastructure into Qualcomm's compute hardware business. Modular's open ecosystem — Mojo, MAX, and Modular Cloud — will continue under its own brand.</p>
+<p><a href="https://www.prnewswire.com/news-releases/qualcomm-completes-acquisition-of-modular-302837286.html">prnewswire.com</a></p>
+</div>
+
+<div class="item">
+<h3>EU opens €10B tender for seven AI "gigafactories"</h3>
+<p>The European Commission formally launched its call for tenders to build seven AI gigafactories across the bloc, backed by €10B in public funding and aiming to unlock over €30B including private investment. 77 proposals across 16 member states were already submitted informally; AMD, Nvidia, and Qualcomm have signed letters of intent to supply chips.</p>
+<p><a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1708">ec.europa.eu</a></p>
+</div>
+
+<div class="item">
+<h3>FCC bans Chinese-made humanoid and quadruped robots over confirmed backdoors</h3>
+<p>Citing documented backdoors in Unitree hardware already deployed at MIT, Princeton, and Carnegie Mellon — including a wormable Bluetooth exploit granting root access — the FCC added foreign-made humanoid and quadruped robots to its Covered List, barring new models from import authorization. China holds roughly 85% of the affected market.</p>
+<p><a href="https://thehill.com/homenews/5996462-fcc-bans-foreign-humanoid-robots/">thehill.com</a></p>
+</div>
+
+<div class="item">
+<h3>Critical "RufRoot" flaw lets attackers hijack Ruflo AI agent deployments</h3>
+<p>Security researchers disclosed CVE-2026-59726, a maximum-severity (CVSS 10.0) flaw in Ruflo, a popular open-source AI agent orchestration platform. An unauthenticated HTTP request to its MCP bridge could run arbitrary shell commands, steal provider API keys, and poison agent memory; a fix shipped in version 3.16.3.</p>
+<p><a href="https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html">thehackernews.com</a></p>
+</div>
+
+<div class="item">
+<h3>StabilityBench: benchmarking how LLMs wobble under realistic multi-turn pressure</h3>
+<p>A new benchmark turns static single-turn evals into multi-turn conversations that inject realistic user behavior — demographic proxies, sycophantic baits — while preserving the original task. Testing nine LLMs on augmented AIME, GSM8k, HealthBench, and StrongReject shows meaningful instability that single-turn scores miss.</p>
+<p><a href="https://arxiv.org/abs/2607.20558">arxiv.org/abs/2607.20558</a></p>
+</div>
+
+<div class="item">
+<h3>Who audits the agent fleet? A budget-allocation approach for overseeing many LLM agents</h3>
+<p>With one human overseeing many LLM agents, this paper studies how to allocate a limited audit budget when the agents' own confidence signals are miscalibrated and correlated with each other — a realistic setting for agent-fleet deployments where blindly trusting self-reported confidence risks missing correlated failures.</p>
+<p><a href="https://arxiv.org/abs/2607.28317">arxiv.org/abs/2607.28317</a></p>
+</div>
+
+<a class="back" href="../index.html">&larr; Back to all digests</a>
+</body>
+</html>

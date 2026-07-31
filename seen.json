@@ -218,5 +218,41 @@
   "https://arxiv.org/abs/2607.25857": {
     "date": "2026-07-30",
     "title": "Shieldstral: a 3B-parameter policy-adaptive safety classifier"
+  },
+  "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots": {
+    "date": "2026-07-31",
+    "title": "Google DeepMind launches Gemini Robotics 2 for whole-body humanoid control"
+  },
+  "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag": {
+    "date": "2026-07-31",
+    "title": "Microsoft's AI stakes swing its Q4 earnings: $3.2B Anthropic gain, $600M OpenAI writedown"
+  },
+  "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack": {
+    "date": "2026-07-31",
+    "title": "Nscale buys Anyscale for $1.65B to move up the AI compute stack"
+  },
+  "https://www.prnewswire.com/news-releases/qualcomm-completes-acquisition-of-modular-302837286.html": {
+    "date": "2026-07-31",
+    "title": "Qualcomm completes acquisition of AI compiler startup Modular"
+  },
+  "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1708": {
+    "date": "2026-07-31",
+    "title": "EU opens 10 billion euro tender for seven AI gigafactories"
+  },
+  "https://thehill.com/homenews/5996462-fcc-bans-foreign-humanoid-robots": {
+    "date": "2026-07-31",
+    "title": "FCC bans Chinese-made humanoid and quadruped robots over confirmed backdoors"
+  },
+  "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html": {
+    "date": "2026-07-31",
+    "title": "Critical RufRoot flaw lets attackers hijack Ruflo AI agent deployments"
+  },
+  "https://arxiv.org/abs/2607.20558": {
+    "date": "2026-07-31",
+    "title": "StabilityBench: Benchmarking Instability in LLMs"
+  },
+  "https://arxiv.org/abs/2607.28317": {
+    "date": "2026-07-31",
+    "title": "One Human, N Agents: Audit-Budget Allocation for LLM Agent Fleets under Miscalibrated, Correlated Confidence"
   }
 }
