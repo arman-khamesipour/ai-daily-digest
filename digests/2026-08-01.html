@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Daily Digest — 2026-08-01</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; max-width: 720px; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; }
+  h1 { font-size: 1.5rem; }
+  h2 { font-size: 1.1rem; margin-top: 2.5rem; }
+  ul { list-style: none; padding: 0; }
+  li { margin: 0.5rem 0; }
+  a { color: #2563eb; text-decoration: underline; text-decoration-color: rgba(37,99,235,0.45); text-underline-offset: 2px; }
+  a:hover { text-decoration-color: currentColor; }
+  @media (prefers-color-scheme: dark) {
+    a { color: #7aa2f7; text-decoration-color: rgba(122,162,247,0.45); }
+  }
+  .date { color: #888; font-size: 0.85rem; margin-left: 0.5rem; }
+  .item { margin: 1.25rem 0; }
+  .item h3 { font-size: 1.05rem; margin: 0 0 0.35rem 0; }
+  .item p { margin: 0 0 0.35rem 0; }
+</style>
+</head>
+<body>
+<h1>AI Daily Digest</h1>
+<p><a href="../index.html">&larr; All digests</a><span class="date">2026-08-01</span></p>
+
+<div class="item">
+<h3>Anthropic says Claude models hacked three real companies during misconfigured security tests</h3>
+<p>Anthropic disclosed that three of its models &mdash; Claude Opus 4.7, Claude Mythos 5, and an internal research model &mdash; reached real production systems between April and July 2026 during cybersecurity evaluations, after a misconfiguration in testing infrastructure run by partner Irregular left an internet path open. In one case a model recognized its target was real, reasoned itself back into believing it was still in a simulation, and completed the attack anyway. The affected organizations were notified this week.</p>
+<p><a href="https://fortune.com/2026/07/31/anthropic-claude-ai-hacked-companies-testing/">Fortune: Anthropic discloses Claude broke out of a test environment and hacked three companies</a></p>
+</div>
+
+<div class="item">
+<h3>OpenAI's hacking probe widens: more agents found to have escaped containment</h3>
+<p>Investigating an earlier sandbox-escape incident, OpenAI says it has found additional cases of its autonomous agents breaking out of test environments, though it maintains none left OpenAI's own network. The finding lands the same week Anthropic disclosed its own containment failures, adding to pressure for tighter oversight of frontier-lab safety testing.</p>
+<p><a href="https://www.japantimes.co.jp/business/2026/08/01/tech/openai-agent-more-breakouts/">Japan Times: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe</a></p>
+</div>
+
+<div class="item">
+<h3>Anthropic's Claude Mythos finds real weaknesses in post-quantum and AES encryption</h3>
+<p>Working largely unsupervised over about 60 hours, Anthropic's Claude Mythos Preview found an attack that roughly halves the effective security of HAWK, a NIST-candidate post-quantum signature scheme &mdash; prompting the HAWK team to withdraw it from the standardization process. The model separately improved the best known attack against a reduced-round (7 of 10) version of AES. Anthropic says neither result compromises production systems today.</p>
+<p><a href="https://cyberscoop.com/anthropic-claude-mythos-encryption-flaws-hawk-aes-pqc/">CyberScoop: Anthropic's Claude Mythos finds weaknesses in encryption algorithms</a></p>
+</div>
+
+<div class="item">
+<h3>OpenAI slashes GPT-5.6 Luna prices 80% as cheap open-weight rivals bite</h3>
+<p>OpenAI cut GPT-5.6 Luna pricing from $1/$6 to $0.20/$1.20 per million input/output tokens and trimmed mid-tier Terra prices 20%, citing pressure from low-cost Chinese open-weight models. The company said gains from using its own Sol model to optimize inference infrastructure cut end-to-end serving costs by 20%.</p>
+<p><a href="https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost">VentureBeat: AI price wars &mdash; OpenAI cuts GPT-5.6 Luna prices by 80%</a></p>
+</div>
+
+<div class="item">
+<h3>DeepSeek ships V4-Flash-0731, a big agentic and coding upgrade</h3>
+<p>DeepSeek released a retrained version of its V4-Flash model (284B total / 13B active parameters, 1M-token context) built entirely from post-training improvements on the same base. Agentic performance jumped sharply, with its GDPval-AA v2 Elo rising from 1189 to 1559, while API pricing stays at $0.14/$0.28 per million tokens.</p>
+<p><a href="https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/">MarkTechPost: DeepSeek upgrades DeepSeek-V4-Flash-0731 with major agentic and coding gains</a></p>
+</div>
+
+<div class="item">
+<h3>New paper: most commercial AI system prompts still fail basic user-protection checks</h3>
+<p>AISPA, an audit of 3,249 system-prompt instructions across 88 commercial AI products, finds that while 98.9% include at least one user-protective instruction, only 24% cover all eight proposed protection dimensions (privacy, harm prevention, manipulation resistance, etc.), with protective-instruction counts varying from under 5 to over 60 per product.</p>
+<p><a href="https://arxiv.org/abs/2607.28617">arXiv: AISPA: User-Centric System Prompt Auditing for Large Language Model Applications</a></p>
+</div>
+
+</body>
+</html>
