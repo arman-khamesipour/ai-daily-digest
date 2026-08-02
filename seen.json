@@ -278,5 +278,29 @@
   "https://arxiv.org/abs/2607.28617": {
     "date": "2026-08-01",
     "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications"
+  },
+  "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august": {
+    "date": "2026-08-02",
+    "title": "EU begins enforcing AI Act transparency rules"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/white-house-ai-framework-deadline-002011007.html": {
+    "date": "2026-08-02",
+    "title": "White House's frontier-AI review framework deadline lapses with no public deliverables"
+  },
+  "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a": {
+    "date": "2026-08-02",
+    "title": "Synthetic-user startup Simile raises $200M at a $2B valuation"
+  },
+  "https://arxiv.org/abs/2607.25379": {
+    "date": "2026-08-02",
+    "title": "Cyber-Capable AI Agents: Vulnerabilities, Evaluation Containment, and Defensive Response"
+  },
+  "https://arxiv.org/abs/2607.27294": {
+    "date": "2026-08-02",
+    "title": "AgentS4D: Benchmarking Runtime Risks across the Execution Lifecycle of LLM-Based Workspace Agents"
+  },
+  "https://arxiv.org/abs/2607.22098": {
+    "date": "2026-08-02",
+    "title": "Reasoning Denoiser: Denoising Reasoning Traces for Hallucination Detection in Large Reasoning Models"
   }
 }
