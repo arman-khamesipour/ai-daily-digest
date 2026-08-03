@@ -302,5 +302,25 @@
   "https://arxiv.org/abs/2607.22098": {
     "date": "2026-08-02",
     "title": "Reasoning Denoiser: Denoising Reasoning Traces for Hallucination Detection in Large Reasoning Models"
+  },
+  "https://siliconangle.com/2026/08/02/openais-astra-solves-10-long-open-math-problems-publishes-proofs": {
+    "date": "2026-08-03",
+    "title": "OpenAI's Astra solves ten decades-old math and CS problems"
+  },
+  "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html": {
+    "date": "2026-08-03",
+    "title": "Amazon raises 2026 capex to $220B as AWS posts fastest growth in 18 quarters"
+  },
+  "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html": {
+    "date": "2026-08-03",
+    "title": "Hacker wired DeepSeek into an autonomous attack pipeline after Claude, GPT declined"
+  },
+  "https://www.claycord.com/2026/08/02/new-california-ai-law-takes-effect-making-ai-content-easier-to-identify": {
+    "date": "2026-08-03",
+    "title": "California's AI Transparency Act takes effect, mandating content labels"
+  },
+  "https://arxiv.org/abs/2607.28618": {
+    "date": "2026-08-03",
+    "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis"
   }
 }
