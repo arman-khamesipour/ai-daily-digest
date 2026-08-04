@@ -322,5 +322,33 @@
   "https://arxiv.org/abs/2607.28618": {
     "date": "2026-08-03",
     "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis"
+  },
+  "https://www.datacenterdynamics.com/en/news/chip-startup-olix-raises-312m-at-33bn-valuation-backed-by-uk-govt-sovereign-ai-venture-fund": {
+    "date": "2026-08-04",
+    "title": "UK chip startup Olix raises $312M at a $3.3B valuation to challenge Nvidia on inference"
+  },
+  "https://www.techmeme.com/260802/p16": {
+    "date": "2026-08-04",
+    "title": "Alibaba pushes Qwen3.8-Max into wider access, claims an edge on some Kimi K3 benchmarks"
+  },
+  "https://fortune.com/2026/08/03/softbank-hitachi-lg-back-zenitys-125-million-round-to-police-ai-agents": {
+    "date": "2026-08-04",
+    "title": "Zenity raises $125M to secure enterprise AI agents"
+  },
+  "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem": {
+    "date": "2026-08-04",
+    "title": "Marc Benioff-backed startup June emerges from stealth to fix enterprise AI deployment"
+  },
+  "https://www.testingcatalog.com/exclusive-microsoft-tests-new-mai-realtime-voice-model": {
+    "date": "2026-08-04",
+    "title": "Microsoft's next voice model, MAI-Realtime, spotted in early preview"
+  },
+  "https://arxiv.org/abs/2607.28685": {
+    "date": "2026-08-04",
+    "title": "Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks"
+  },
+  "https://arxiv.org/abs/2607.29602": {
+    "date": "2026-08-04",
+    "title": "FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models"
   }
 }
