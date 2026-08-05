@@ -350,5 +350,33 @@
   "https://arxiv.org/abs/2607.29602": {
     "date": "2026-08-04",
     "title": "FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models"
+  },
+  "https://www.anthropic.com/news/tino-cuellar": {
+    "date": "2026-08-05",
+    "title": "Anthropic names Tino Cuéllar as its first Chief Global Affairs Officer"
+  },
+  "https://www.cnn.com/2026/08/03/tech/white-house-meet-with-top-ai-companies-big-regulation-push": {
+    "date": "2026-08-05",
+    "title": "White House to meet OpenAI, Anthropic, Google and other labs on a voluntary safety framework"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductors-ai-push-hits-202554417.html": {
+    "date": "2026-08-05",
+    "title": "TSMC reportedly pulling forward 3nm production to meet AI chip demand"
+  },
+  "https://www.techtimes.com/articles/322674/20260802/ai4-2026-opens-tuesday-hinton-ng-face-off-ais-existential-stakes.htm": {
+    "date": "2026-08-05",
+    "title": "Ai4 2026 opens with Hinton and Ng sparring over existential AI risk"
+  },
+  "https://arxiv.org/abs/2608.02412": {
+    "date": "2026-08-05",
+    "title": "Why Large Language Models Fail at Tabular Prediction"
+  },
+  "https://arxiv.org/abs/2608.02499": {
+    "date": "2026-08-05",
+    "title": "SWE-Touch: Benchmarking Coding Agents When Users Touch the Code"
+  },
+  "https://arxiv.org/abs/2608.01543": {
+    "date": "2026-08-05",
+    "title": "V-Mem: Modality-Routed Retrieval for Long-Term Multimodal Agentic Memory"
   }
 }
