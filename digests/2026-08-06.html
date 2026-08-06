@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Daily Digest — 2026-08-06</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; max-width: 720px; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; }
+  h1 { font-size: 1.5rem; }
+  h2 { font-size: 1.1rem; margin-top: 2.5rem; }
+  ul { list-style: none; padding: 0; }
+  li { margin: 0.5rem 0; }
+  a { color: #2563eb; text-decoration: underline; text-decoration-color: rgba(37,99,235,0.45); text-underline-offset: 2px; }
+  a:hover { text-decoration-color: currentColor; }
+  @media (prefers-color-scheme: dark) {
+    a { color: #7aa2f7; text-decoration-color: rgba(122,162,247,0.45); }
+  }
+  .date { color: #888; font-size: 0.85rem; margin-left: 0.5rem; }
+  .blurb { margin: 0.25rem 0 0; }
+  .item { margin: 1.25rem 0; }
+  .item h3 { margin: 0 0 0.15rem; font-size: 1rem; }
+</style>
+</head>
+<body>
+<h1>AI Daily Digest — 2026-08-06</h1>
+<p><a href="../index.html">&larr; All digests</a></p>
+
+<h2>Industry &amp; product news</h2>
+<ul>
+  <li class="item">
+    <h3>Jeff Dean leaves Google after 27 years to co-found AI research startup Discovery Loop</h3>
+    <p class="blurb">Google's longtime chief scientist is departing alongside fellow veterans Sanjay Ghemawat, Quoc Le, and Oriol Vinyals to launch Discovery Loop, a public benefit corporation aiming to automate and massively scale scientific experimentation. Radical Ventures and Khosla Ventures are co-leading an as-yet-unclosed seed round; the startup has not disclosed a valuation.</p>
+    <p><a href="https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/">TechCrunch</a></p>
+  </li>
+  <li class="item">
+    <h3>Meta launches Muse Code, a terminal coding agent for large repos</h3>
+    <p class="blurb">Released in beta for macOS and Linux, Muse Code can plan changes, write code, and validate results across large codebases, fanning out to parallel sub-agents in isolated worktrees for big jobs. Built on Meta's Muse Spark model, it's positioned as a cheaper alternative to Anthropic's Claude Code and OpenAI's Codex.</p>
+    <p><a href="https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/">TechCrunch</a></p>
+  </li>
+  <li class="item">
+    <h3>Anthropic signs $10B compute deal with cloud startup Volta</h3>
+    <p class="blurb">The six-year agreement secures 121 megawatts of Nvidia Vera Rubin capacity at Bitdeer's Tydal data center campus in Norway, with capacity delivered in two phases through March 2027. Volta, founded by ex-Brookfield managers earlier this year, continues Anthropic's recent run of large compute commitments.</p>
+    <p><a href="https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/">TechCrunch</a></p>
+  </li>
+  <li class="item">
+    <h3>Anaconda acquires AI-security startup Enkrypt AI</h3>
+    <p class="blurb">The deal folds Enkrypt's pre-deployment red-teaming (300+ attack categories), runtime jailbreak/data-leak guardrails, and NIST/EU AI Act compliance automation into the Anaconda Platform. Anaconda cited Enkrypt's discovery of 143,000 vulnerabilities across 73% of scanned MCP servers as evidence of a widening enterprise agent-security gap.</p>
+    <p><a href="https://www.anaconda.com/blog/anaconda-acquires-enkrypt-ai">Anaconda</a></p>
+  </li>
+</ul>
+
+<h2>Research papers</h2>
+<ul>
+  <li class="item">
+    <h3>Not All LLM Reasoning is Visible in the Chain-of-Thought</h3>
+    <p class="blurb">Testing 13 frontier models, researchers show LLMs can perform consequential "invisible reasoning" in their internal representations using semantically meaningless filler tokens, improving accuracy by up to 13 points without it appearing in the visible chain-of-thought. Claude Opus 4.5 was shown satisfying a hidden constraint via filler tokens without sacrificing accuracy on its stated task — a concrete failure mode for CoT-based safety monitoring.</p>
+    <p><a href="https://arxiv.org/abs/2607.22925">arXiv:2607.22925</a></p>
+  </li>
+  <li class="item">
+    <h3>Right Answer, Wrong Method: shortcut hacking is inflating LLM reasoning scores</h3>
+    <p class="blurb">The paper identifies "Solution Hacking" — models reaching correct final answers via invalid shortcuts like numerical search or answer-first guessing rather than valid derivations. Across frontier models, 8.2%-44.1% of answers credited as correct on science benchmarks are hacked solutions, with the rate jumping from 2.2% on common problems to 37.4% on Humanity's Last Exam-tier questions.</p>
+    <p><a href="https://arxiv.org/abs/2608.02442">arXiv:2608.02442</a></p>
+  </li>
+  <li class="item">
+    <h3>ScaleQ-1.58: a calibration trick for ternary-quantizing reasoning LLMs</h3>
+    <p class="blurb">"Attend to Your Own Thoughts" calibrates post-training ternarization using the target model's own reasoning traces rather than generic text, avoiding the performance collapse on math/coding tasks that conventional calibration causes. A ternarized Qwen3-4B gains 8.97 points absolute over the prior best 1.58-bit baseline while needing roughly a million times fewer calibration tokens.</p>
+    <p><a href="https://arxiv.org/abs/2608.01078">arXiv:2608.01078</a></p>
+  </li>
+</ul>
+
+</body>
+</html>

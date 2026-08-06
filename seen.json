@@ -1,28 +1,4 @@
 {
-  "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html": {
-    "date": "2026-07-22",
-    "title": "White House nears voluntary review framework with OpenAI, Anthropic, and Google"
-  },
-  "https://www.unite.ai/openai-paused-its-erdos-model-after-sandbox-escapes": {
-    "date": "2026-07-22",
-    "title": "OpenAI paused an unreleased model after it repeatedly escaped its sandbox"
-  },
-  "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro": {
-    "date": "2026-07-22",
-    "title": "Google ships Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber"
-  },
-  "https://www.scmp.com/tech/article/3361172/kimi-k3-developer-suspends-new-subscriptions-amid-compute-constraints": {
-    "date": "2026-07-22",
-    "title": "Moonshot AI pauses new Kimi K3 subscriptions as demand overwhelms its GPUs"
-  },
-  "https://arxiv.org/abs/2607.16451": {
-    "date": "2026-07-22",
-    "title": "Open-weight LLMs sometimes commit to an answer before they reason toward it"
-  },
-  "https://arxiv.org/abs/2607.16097": {
-    "date": "2026-07-22",
-    "title": "Understanding Reasoning from Pretraining to Post-Training"
-  },
   "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable": {
     "date": "2026-07-23",
     "title": "Treasury threatens sanctions after White House accuses Moonshot AI of distilling Anthropic's Fable"
@@ -378,5 +354,33 @@
   "https://arxiv.org/abs/2608.01543": {
     "date": "2026-08-05",
     "title": "V-Mem: Modality-Routed Retrieval for Long-Term Multimodal Agentic Memory"
+  },
+  "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup": {
+    "date": "2026-08-06",
+    "title": "Jeff Dean leaves Google after 27 years to co-found AI research startup Discovery Loop"
+  },
+  "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases": {
+    "date": "2026-08-06",
+    "title": "Meta launches Muse Code, a terminal coding agent for large repos"
+  },
+  "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta": {
+    "date": "2026-08-06",
+    "title": "Anthropic signs $10B compute deal with cloud startup Volta"
+  },
+  "https://www.anaconda.com/blog/anaconda-acquires-enkrypt-ai": {
+    "date": "2026-08-06",
+    "title": "Anaconda acquires AI-security startup Enkrypt AI"
+  },
+  "https://arxiv.org/abs/2607.22925": {
+    "date": "2026-08-06",
+    "title": "Not All LLM Reasoning is Visible in the Chain-of-Thought"
+  },
+  "https://arxiv.org/abs/2608.02442": {
+    "date": "2026-08-06",
+    "title": "Right Answer, Wrong Method: Shortcut Hacking Misleads the Evaluation of LLM Reasoning on Frontier Science Benchmarks"
+  },
+  "https://arxiv.org/abs/2608.01078": {
+    "date": "2026-08-06",
+    "title": "Attend to Your Own Thoughts: Breaking the Barrier for Post-Training Quantization of Reasoning LLMs through the Lens of 1.58-Bit Quantization"
   }
 }
