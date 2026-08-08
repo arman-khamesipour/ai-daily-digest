@@ -1,28 +1,4 @@
 {
-  "https://explainx.ai/blog/deepseek-v4-official-release-peak-pricing-mid-july-2026": {
-    "date": "2026-07-24",
-    "title": "DeepSeek graduates V4 from preview to a stable, official release"
-  },
-  "https://hothardware.com/news/amd-advancing-ai-2026-epyc-9006-instinct-mi400x-helios": {
-    "date": "2026-07-24",
-    "title": "AMD lays out its full MI400 lineup and Helios rack platform at Advancing AI 2026"
-  },
-  "https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race": {
-    "date": "2026-07-24",
-    "title": "Google's Gemini delay widens its AI gap with OpenAI and Anthropic"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-is-considering-export-controls-on-ai-technologies-including-banning-local-companies-from-using-tsmc-report-claims-restrictions-would-also-advanced-ai-models-training-data-and-overseas-acquisitions": {
-    "date": "2026-07-24",
-    "title": "China weighs its own export controls on AI models and chip technology"
-  },
-  "https://arxiv.org/abs/2607.20372": {
-    "date": "2026-07-24",
-    "title": "Notes to Self: Can LLMs Benefit from Experiential Abstractions?"
-  },
-  "https://arxiv.org/abs/2607.20121": {
-    "date": "2026-07-24",
-    "title": "OpenSkillRisk: Benchmarking Agent Safety When Using Real-World Risky Third-Party Skills"
-  },
   "https://fortune.com/2026/07/24/anthropic-debuts-claude-opus-5-with-feature-that-lets-users-toggle-between-cost-and-capability/": {
     "date": "2026-07-25",
     "title": "Anthropic launches Claude Opus 5 at half the price of Fable 5"
@@ -382,5 +358,29 @@
   "https://arxiv.org/abs/2608.04719": {
     "date": "2026-08-07",
     "title": "Diagnosing Tool-Selection Reasoning in LLM Agents with Canary Tools"
+  },
+  "https://techstartups.com/2026/08/07/nvidia-backed-firmus-raises-2-billion-at-10-5-billion-valuation-to-build-ai-factories-across-asia-pacific": {
+    "date": "2026-08-08",
+    "title": "Nvidia-backed Firmus raises $2B, doubling its valuation to $10.5B"
+  },
+  "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents": {
+    "date": "2026-08-08",
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents"
+  },
+  "https://memeburn.com/grok-voice-2-0-leads-xai-blitz-across-tesla-and-apps": {
+    "date": "2026-08-08",
+    "title": "xAI's Grok Voice Think Fast 2.0 goes live as the default across Tesla and apps"
+  },
+  "https://www.digitalmusicnews.com/2026/08/06/suno-changes-2026": {
+    "date": "2026-08-08",
+    "title": "Suno rolls out watermarking and download limits amid copyright pressure"
+  },
+  "https://arxiv.org/abs/2608.06171": {
+    "date": "2026-08-08",
+    "title": "Routing Is Least Learnable Where It Is Most Valuable: Bounds on Representation Routing for Web Agents"
+  },
+  "https://arxiv.org/abs/2608.06377": {
+    "date": "2026-08-08",
+    "title": "Learning When to Trust via Selective Context Preference Optimization"
   }
 }
