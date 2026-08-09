@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Daily Digest — 2026-08-09</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; max-width: 720px; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; }
+  h1 { font-size: 1.5rem; }
+  h2 { font-size: 1.1rem; margin-top: 2.5rem; }
+  ul { list-style: none; padding: 0; }
+  li { margin: 0.5rem 0; }
+  a { color: #2563eb; text-decoration: underline; text-decoration-color: rgba(37,99,235,0.45); text-underline-offset: 2px; }
+  a:hover { text-decoration-color: currentColor; }
+  @media (prefers-color-scheme: dark) {
+    a { color: #7aa2f7; text-decoration-color: rgba(122,162,247,0.45); }
+  }
+  .date { color: #888; font-size: 0.85rem; margin-left: 0.5rem; }
+  .item { margin: 1.5rem 0; }
+  .item h3 { margin-bottom: 0.25rem; font-size: 1.05rem; }
+  .item p { margin: 0.25rem 0; }
+</style>
+</head>
+<body>
+<h1>AI Daily Digest</h1>
+<p><a href="../index.html">&larr; All digests</a><span class="date">2026-08-09</span></p>
+
+<div class="item">
+  <h3>OpenAI pauses part of Astra's development after it crosses a "critical" cybersecurity threshold</h3>
+  <p>An internal review found OpenAI's unreleased Astra model could independently identify and chain zero-day exploits against hardened real-world systems, enough that OpenAI can't rule out Critical capability level under its Preparedness Framework. The company is halting internal work that doesn't meet stricter security controls and is bringing in government agencies and outside safety groups to stress-test the model before any release.</p>
+  <p><a href="https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/">techcrunch.com</a></p>
+</div>
+
+<div class="item">
+  <h3>DeepSeek resumes its $8B funding round at a ~$74B valuation</h3>
+  <p>DeepSeek restarted a paused fundraise, seeking close to $8 billion at roughly 500 billion yuan ($74B), with Monolith Management in talks to join a syndicate that already includes China's national AI fund, NetEase, JD.com, and IDG Capital. Part of the money is earmarked for data centers, including a large planned facility in Inner Mongolia, with signing expected by late August.</p>
+  <p><a href="https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-resumes-funding-round-to-raise-8-billion/">pymnts.com</a></p>
+</div>
+
+<div class="item">
+  <h3>Nvidia open-sources NOOA, collapsing an AI agent into a single Python class</h3>
+  <p>NOOA (Nvidia Object-Oriented Agents) is an Apache 2.0 framework where an agent's state, actions, and prompts are just fields, methods, and docstrings on one class — deterministic code stays deterministic, while methods left unimplemented get completed at runtime by an LLM loop. Nvidia reports 82.2% on SWE-bench Verified with GPT-5.5 using roughly half the tokens of competing harnesses, though it notes its sandboxing is defense-in-depth, not a hard containment boundary.</p>
+  <p><a href="https://thenewstack.io/nvidia-nooa-agent-framework/">thenewstack.io</a></p>
+</div>
+
+<div class="item">
+  <h3>OpenAI acquires presentation startup NextSlide for ChatGPT</h3>
+  <p>OpenAI quietly folded in NextSlide, whose product turned notes, prompts, and research into polished, editable presentations, in an acqui-hire finalized earlier this year and disclosed publicly this week. Terms weren't announced; the team joins ChatGPT's push deeper into workplace productivity and document-creation tools.</p>
+  <p><a href="https://www.unite.ai/openai-acquires-nextslide-the-ai-presentation-startup/">unite.ai</a></p>
+</div>
+
+<div class="item">
+  <h3>Paper: teaching a "harness engineer" to rewrite an agent's runtime from its own failures</h3>
+  <p>Harness-R1 trains a dedicated model, via online reinforcement learning, to read batches of a frozen agent's failed trajectories and write reusable runtime patches — validated, compiled into sandboxed hooks, and scored by rerunning the same tasks. Applied to a frozen Qwen3.5-9B agent across WebShop, ALFWorld, and DBBench, it lifted task success by an average of 9.3 percentage points without touching the underlying model.</p>
+  <p><a href="https://arxiv.org/abs/2608.02276">arxiv.org/abs/2608.02276</a></p>
+</div>
+
+<div class="item">
+  <h3>Paper: for messy documents, reading beats embedding</h3>
+  <p>On a 780-page government financial report, 86.8% of content lines are table rows whose figures inherit units from a header a median of 13 lines above — exactly the kind of structure chunk-and-embed retrieval destroys. The authors' READ system instead has an agent search, navigate, and read the raw document via deterministic operations exposed over MCP, answering 58.8% of 51 verified questions versus 15.7% for dense retrieval, with a fully replayable audit trail.</p>
+  <p><a href="https://arxiv.org/abs/2608.06305">arxiv.org/abs/2608.06305</a></p>
+</div>
+
+</body>
+</html>

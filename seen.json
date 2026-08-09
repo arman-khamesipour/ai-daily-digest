@@ -1,32 +1,4 @@
 {
-  "https://fortune.com/2026/07/24/anthropic-debuts-claude-opus-5-with-feature-that-lets-users-toggle-between-cost-and-capability/": {
-    "date": "2026-07-25",
-    "title": "Anthropic launches Claude Opus 5 at half the price of Fable 5"
-  },
-  "https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html": {
-    "date": "2026-07-25",
-    "title": "AMD to invest up to $5B in Anthropic in a chip-and-compute deal"
-  },
-  "https://about.fb.com/news/2026/07/meta-ai-muse-spark-doesnt-just-think-it-acts/": {
-    "date": "2026-07-25",
-    "title": "Meta AI starts taking action on your behalf with Muse Spark 1.1"
-  },
-  "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/": {
-    "date": "2026-07-25",
-    "title": "AI inference chip startup Etched raises $300M at a $10.3B valuation"
-  },
-  "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/": {
-    "date": "2026-07-25",
-    "title": "Travis Kalanick's physical-AI startup Atoms raises $1.7B led by a16z"
-  },
-  "https://arxiv.org/abs/2607.21491": {
-    "date": "2026-07-25",
-    "title": "What, Where, and How: Disentangling the Roles of Task, Language, and Model in Code Model Representations"
-  },
-  "https://arxiv.org/abs/2607.21279": {
-    "date": "2026-07-25",
-    "title": "A Unified Moral-Value Dataset for Instruction Tuning"
-  },
   "https://fortune.com/2026/07/24/jensen-huang-open-source-letter-nvidia-kimi": {
     "date": "2026-07-26",
     "title": "Nvidia's Jensen Huang makes his first-ever X post to defend open-weight AI"
@@ -382,5 +354,29 @@
   "https://arxiv.org/abs/2608.06377": {
     "date": "2026-08-08",
     "title": "Learning When to Trust via Selective Context Preference Optimization"
+  },
+  "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns": {
+    "date": "2026-08-09",
+    "title": "OpenAI pauses part of Astra's development after it crosses a \"critical\" cybersecurity threshold"
+  },
+  "https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-resumes-funding-round-to-raise-8-billion": {
+    "date": "2026-08-09",
+    "title": "DeepSeek resumes its $8B funding round at a ~$74B valuation"
+  },
+  "https://thenewstack.io/nvidia-nooa-agent-framework": {
+    "date": "2026-08-09",
+    "title": "Nvidia open-sources NOOA, collapsing an AI agent into a single Python class"
+  },
+  "https://www.unite.ai/openai-acquires-nextslide-the-ai-presentation-startup": {
+    "date": "2026-08-09",
+    "title": "OpenAI acquires presentation startup NextSlide for ChatGPT"
+  },
+  "https://arxiv.org/abs/2608.02276": {
+    "date": "2026-08-09",
+    "title": "Harness-R1: Learning to Edit Executable Runtime Harnesses from Agent Failure Trajectories"
+  },
+  "https://arxiv.org/abs/2608.06305": {
+    "date": "2026-08-09",
+    "title": "Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations"
   }
 }
