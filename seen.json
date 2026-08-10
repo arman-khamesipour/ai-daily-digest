@@ -1,28 +1,4 @@
 {
-  "https://fortune.com/2026/07/24/jensen-huang-open-source-letter-nvidia-kimi": {
-    "date": "2026-07-26",
-    "title": "Nvidia's Jensen Huang makes his first-ever X post to defend open-weight AI"
-  },
-  "https://www.semafor.com/article/07/24/2026/us-lawmakers-propose-ai-kill-switch-bill": {
-    "date": "2026-07-26",
-    "title": "Lawmakers introduce an AI \"Kill Switch Act\" after OpenAI's rogue agent incident"
-  },
-  "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star": {
-    "date": "2026-07-26",
-    "title": "Midjourney quietly acquired the astrology app Co-Star"
-  },
-  "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai": {
-    "date": "2026-07-26",
-    "title": "AI is now the leading stated reason for US tech layoffs"
-  },
-  "https://arxiv.org/abs/2607.20982": {
-    "date": "2026-07-26",
-    "title": "GuardianAgentBench: Where Agents Fail and How to Guard Them"
-  },
-  "https://arxiv.org/abs/2607.21445": {
-    "date": "2026-07-26",
-    "title": "When Trivia Is Not Trivial: Everyday Knowledge Failures in Multilingual LLMs"
-  },
   "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems": {
     "date": "2026-07-27",
     "title": "Moonshot AI publishes Kimi K3's full open weights, the largest open-weight release ever"
@@ -378,5 +354,29 @@
   "https://arxiv.org/abs/2608.06305": {
     "date": "2026-08-09",
     "title": "Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations"
+  },
+  "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default": {
+    "date": "2026-08-10",
+    "title": "Anthropic makes Claude Code's auto mode the default for paid plans"
+  },
+  "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire": {
+    "date": "2026-08-10",
+    "title": "Zoox starts charging for driverless robotaxi rides in Las Vegas"
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-07/us-reviews-china-s-offshore-access-to-nvidia-chips-after-ai-breakthroughs": {
+    "date": "2026-08-10",
+    "title": "US reviews how Chinese AI firms get around Nvidia export controls"
+  },
+  "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you": {
+    "date": "2026-08-10",
+    "title": "A researcher spent a year teaching an algorithm to hide people from surveillance cameras"
+  },
+  "https://arxiv.org/abs/2608.05108": {
+    "date": "2026-08-10",
+    "title": "PIMiner: Agent Against Agent for automatic prompt injection red-teaming"
+  },
+  "https://arxiv.org/abs/2608.05906": {
+    "date": "2026-08-10",
+    "title": "MERIT: Causal Episodic Memory for Feedback-Driven Agent Repair"
   }
 }
