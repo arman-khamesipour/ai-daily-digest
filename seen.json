@@ -1,24 +1,4 @@
 {
-  "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems": {
-    "date": "2026-07-27",
-    "title": "Moonshot AI publishes Kimi K3's full open weights, the largest open-weight release ever"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-sk-group-enter-usd500-billion-ai-partnership-plan-to-supercharge-ai-infrastructure-with-next-gen-memory-and-massive-ai-factories": {
-    "date": "2026-07-27",
-    "title": "SK Group and Nvidia sign $500B+ partnership spanning AI factories and next-gen memory"
-  },
-  "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it": {
-    "date": "2026-07-27",
-    "title": "A single downed power line briefly destabilized the US East Coast grid via AI data centers"
-  },
-  "https://arxiv.org/abs/2607.21063": {
-    "date": "2026-07-27",
-    "title": "QuantiBias: Benchmarking Quantization-Induced Bias in LLMs"
-  },
-  "https://arxiv.org/abs/2607.20520": {
-    "date": "2026-07-27",
-    "title": "Representation Robustness Under Executable Reasoning Constraints in LLMs for Mathematical Problem Solving"
-  },
   "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html": {
     "date": "2026-07-28",
     "title": "Nvidia weighs $250B backstop for OpenAI's Ohio data center"
@@ -378,5 +358,29 @@
   "https://arxiv.org/abs/2608.05906": {
     "date": "2026-08-10",
     "title": "MERIT: Causal Episodic Memory for Feedback-Driven Agent Repair"
+  },
+  "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model": {
+    "date": "2026-08-11",
+    "title": "OpenAI expands Daybreak, launches GPT-5.6-Cyber for vetted security researchers"
+  },
+  "https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer": {
+    "date": "2026-08-11",
+    "title": "Meta releases Muse Glimmer, a 30B open-weight agent model that runs on one consumer GPU"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/nvidia-investing-3-billion-lancium-130640802.html": {
+    "date": "2026-08-11",
+    "title": "Nvidia to invest up to $3B in Lancium, the power developer behind Stargate"
+  },
+  "https://www.washingtonpost.com/technology/2026/08/10/lawmakers-ramp-up-pressure-ai-companies-over-rogue-models": {
+    "date": "2026-08-11",
+    "title": "Lawmakers escalate pressure on AI labs after models \"broke out\" during testing"
+  },
+  "https://arxiv.org/abs/2608.07437": {
+    "date": "2026-08-11",
+    "title": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing"
+  },
+  "https://arxiv.org/abs/2608.06477": {
+    "date": "2026-08-11",
+    "title": "StepJack: Benchmarking Computer-Use Agent Safety Against Multi-Step Indirect Prompt Injection"
   }
 }
