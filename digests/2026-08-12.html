@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Daily Digest — 2026-08-12</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; max-width: 720px; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; }
+  h1 { font-size: 1.5rem; }
+  h2 { font-size: 1.1rem; margin-top: 2.5rem; }
+  ul { list-style: none; padding: 0; }
+  li { margin: 0.5rem 0; }
+  a { color: #2563eb; text-decoration: underline; text-decoration-color: rgba(37,99,235,0.45); text-underline-offset: 2px; }
+  a:hover { text-decoration-color: currentColor; }
+  @media (prefers-color-scheme: dark) {
+    a { color: #7aa2f7; text-decoration-color: rgba(122,162,247,0.45); }
+  }
+  .date { color: #888; font-size: 0.85rem; margin-left: 0.5rem; }
+  .item { margin: 1.5rem 0; }
+  .item h3 { margin-bottom: 0.25rem; font-size: 1.05rem; }
+  .item p { margin: 0.25rem 0; }
+</style>
+</head>
+<body>
+<h1>AI Daily Digest</h1>
+<p><a href="../index.html">&larr; All digests</a><span class="date">2026-08-12</span></p>
+
+<div class="item">
+  <h3>Nvidia locks in $500B financing alliance with Wall Street's biggest asset managers</h3>
+  <p>Nvidia is partnering with Apollo, Blackstone, BlackRock, Brookfield, Goldman Sachs, and KKR to build dedicated capital pools that let AI companies borrow against compute the way they would against real estate or toll roads. Jensen Huang says he approached only those six firms and none turned him down, but the deal is reviving worries about circularity in AI financing if a major customer stumbles.</p>
+  <p><a href="https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html">cnbc.com</a></p>
+</div>
+
+<div class="item">
+  <h3>Intel's upsized $20B stock sale draws 5x oversubscription as AI demand accelerates</h3>
+  <p>Intel priced its share offering at $95, raising it from $15B to $20B after more than $100B in investor orders, with proceeds earmarked for AI chip, advanced-packaging, and foundry expansion. The rush follows Intel's fastest revenue growth in nearly 15 years and a raised capex outlook.</p>
+  <p><a href="https://www.techtimes.com/articles/323957/20260811/intel-prices-20-billion-stock-offering-wall-street-sends-100-billion-orders.htm">techtimes.com</a></p>
+</div>
+
+<div class="item">
+  <h3>xAI launches Grok Bot, always-on agents that operate a user's own apps</h3>
+  <p>Each Grok Bot runs from its own cloud computer, can log into tools without clean APIs or MCP support, and coordinates with other bots in group chats to divide work and flag only judgment calls to a human. The public beta ships free with SuperGrok Heavy and Cursor Ultra/Teams Premium, with an enterprise waitlist for wider rollout.</p>
+  <p><a href="https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month">venturebeat.com</a></p>
+</div>
+
+<div class="item">
+  <h3>Paper: nesting a whole model suite into one network cuts training compute 36%</h3>
+  <p>Matryoshka Language Model Suites trains 500M/1.5B/3B sub-models as one nested, end-to-end architecture instead of separately, letting the largest model cheaply distill into the smaller ones at every training step. The resulting suite matches independently-trained baselines on benchmarks and perplexity while using over a third less compute, and doubles as a built-in draft model for speculative decoding.</p>
+  <p><a href="https://arxiv.org/abs/2608.09703">arxiv.org/abs/2608.09703</a></p>
+</div>
+
+<div class="item">
+  <h3>Paper: can an agent rewrite its own operating harness to get better?</h3>
+  <p>Evo-Bench tests whether LLM agents can autonomously improve the scaffolding they run in — prompts, tools, control flow — rather than just solving static tasks, across Search, Office, and General domains. Top frontier models close most of the gap to human-engineered harnesses and even beat them on Search and General tasks, but still struggle on Office tasks that need precise, workflow-specific handling.</p>
+  <p><a href="https://arxiv.org/abs/2608.09096">arxiv.org/abs/2608.09096</a></p>
+</div>
+
+<div class="item">
+  <h3>Paper: the safety filters that flag "harmful" prompts aren't the ones that predict which jailbreaks actually work</h3>
+  <p>The authors show that internal harmfulness scores used to filter risky prompts are validated on the wrong target: separating harmful from benign prompts, not predicting which attacks will actually succeed against a given model. Across multiple targets, attacks, and judges, a strong harmfulness score can rank successful jailbreaks lower than failed ones — meaning safety budgets built on these scores get spent on attacks that were never going to work.</p>
+  <p><a href="https://arxiv.org/abs/2608.09624">arxiv.org/abs/2608.09624</a></p>
+</div>
+
+</body>
+</html>

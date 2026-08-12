@@ -1,24 +1,4 @@
 {
-  "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html": {
-    "date": "2026-07-28",
-    "title": "Nvidia weighs $250B backstop for OpenAI's Ohio data center"
-  },
-  "https://www.babypips.com/news/headline-ai-chip-stocks-selloff-july-2026-china-lithography-fed": {
-    "date": "2026-07-28",
-    "title": "Chinese DUV lithography breakthrough triggers AI chip stock selloff"
-  },
-  "https://www.prnewswire.com/news-releases/celeris-unveils-celeris-1-unlocking-real-time-ai-through-diffusion-based-language-generation-302835273.html": {
-    "date": "2026-07-28",
-    "title": "Celeris-1: a diffusion-based LLM built for speed"
-  },
-  "https://www.globenewswire.com/news-release/2026/07/27/3333282/0/en/Multiverse-Computing-Announces-Series-C-Fundraising-Targeting-up-to-570M-500M-to-Power-Efficient-AI-from-Edge-to-Cloud.html": {
-    "date": "2026-07-28",
-    "title": "Multiverse Computing raises $570M Series C for efficient AI"
-  },
-  "https://arxiv.org/abs/2607.22520": {
-    "date": "2026-07-28",
-    "title": "The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents"
-  },
   "https://thehill.com/policy/technology/5991875-nvidia-launches-open-secure-ai-alliance": {
     "date": "2026-07-29",
     "title": "Nvidia and 30+ companies launch the Open Secure AI Alliance"
@@ -382,5 +362,29 @@
   "https://arxiv.org/abs/2608.06477": {
     "date": "2026-08-11",
     "title": "StepJack: Benchmarking Computer-Use Agent Safety Against Multi-Step Indirect Prompt Injection"
+  },
+  "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html": {
+    "date": "2026-08-12",
+    "title": "Nvidia locks in $500B financing alliance with Wall Street's biggest asset managers"
+  },
+  "https://www.techtimes.com/articles/323957/20260811/intel-prices-20-billion-stock-offering-wall-street-sends-100-billion-orders.htm": {
+    "date": "2026-08-12",
+    "title": "Intel's upsized $20B stock sale draws 5x oversubscription as AI demand accelerates"
+  },
+  "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month": {
+    "date": "2026-08-12",
+    "title": "xAI launches Grok Bot, always-on agents that operate a user's own apps"
+  },
+  "https://arxiv.org/abs/2608.09703": {
+    "date": "2026-08-12",
+    "title": "Matryoshka Language Model Suites"
+  },
+  "https://arxiv.org/abs/2608.09096": {
+    "date": "2026-08-12",
+    "title": "Evo-Bench: Can Language Models Improve Agent Harness?"
+  },
+  "https://arxiv.org/abs/2608.09624": {
+    "date": "2026-08-12",
+    "title": "Measuring the Wrong Thing: Internal Harmfulness Scores Anti-Rank Successful Jailbreaks"
   }
 }
