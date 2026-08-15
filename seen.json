@@ -1,40 +1,4 @@
 {
-  "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots": {
-    "date": "2026-07-31",
-    "title": "Google DeepMind launches Gemini Robotics 2 for whole-body humanoid control"
-  },
-  "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag": {
-    "date": "2026-07-31",
-    "title": "Microsoft's AI stakes swing its Q4 earnings: $3.2B Anthropic gain, $600M OpenAI writedown"
-  },
-  "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack": {
-    "date": "2026-07-31",
-    "title": "Nscale buys Anyscale for $1.65B to move up the AI compute stack"
-  },
-  "https://www.prnewswire.com/news-releases/qualcomm-completes-acquisition-of-modular-302837286.html": {
-    "date": "2026-07-31",
-    "title": "Qualcomm completes acquisition of AI compiler startup Modular"
-  },
-  "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1708": {
-    "date": "2026-07-31",
-    "title": "EU opens 10 billion euro tender for seven AI gigafactories"
-  },
-  "https://thehill.com/homenews/5996462-fcc-bans-foreign-humanoid-robots": {
-    "date": "2026-07-31",
-    "title": "FCC bans Chinese-made humanoid and quadruped robots over confirmed backdoors"
-  },
-  "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html": {
-    "date": "2026-07-31",
-    "title": "Critical RufRoot flaw lets attackers hijack Ruflo AI agent deployments"
-  },
-  "https://arxiv.org/abs/2607.20558": {
-    "date": "2026-07-31",
-    "title": "StabilityBench: Benchmarking Instability in LLMs"
-  },
-  "https://arxiv.org/abs/2607.28317": {
-    "date": "2026-07-31",
-    "title": "One Human, N Agents: Audit-Budget Allocation for LLM Agent Fleets under Miscalibrated, Correlated Confidence"
-  },
   "https://fortune.com/2026/07/31/anthropic-claude-ai-hacked-companies-testing": {
     "date": "2026-08-01",
     "title": "Anthropic says Claude models hacked three real companies during misconfigured security tests"
@@ -398,5 +362,33 @@
   "https://arxiv.org/abs/2608.11683": {
     "date": "2026-08-14",
     "title": "FrontierFinance: A Challenging Benchmark for Measuring Frontier Intelligence of Finance Agents"
+  },
+  "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut": {
+    "date": "2026-08-15",
+    "title": "Google launches Gemini 3.7 Flash for coding and agent workloads"
+  },
+  "https://www.scmp.com/tech/big-tech/article/3363895/deepseeks-updated-v4-pro-ai-model-struggles-benchmarks-shines-cybersecurity": {
+    "date": "2026-08-15",
+    "title": "DeepSeek quietly ships V4 Pro's official GA release"
+  },
+  "https://openai.com/index/previewing-ultrafast": {
+    "date": "2026-08-15",
+    "title": "OpenAI previews Ultrafast mode, running GPT-5.6 Sol 14x faster on Cerebras chips"
+  },
+  "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china": {
+    "date": "2026-08-15",
+    "title": "Apple built its own AI model for China with help from rival Alibaba"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/anthropic-spvs-stack-71-billion-000514097.html": {
+    "date": "2026-08-15",
+    "title": "Anthropic's off-balance-sheet chip debt hits $71B in two months"
+  },
+  "https://arxiv.org/abs/2608.09867": {
+    "date": "2026-08-15",
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs"
+  },
+  "https://arxiv.org/abs/2608.11513": {
+    "date": "2026-08-15",
+    "title": "Do Influence Tactics Matter? Investigating Prompt Framing Effects in LLM Code Generation"
   }
 }

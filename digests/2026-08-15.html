@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Daily Digest - 2026-08-15</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; max-width: 720px; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; }
+  h1 { font-size: 1.5rem; }
+  h2 { font-size: 1.1rem; margin-top: 2.5rem; }
+  ul { list-style: none; padding: 0; }
+  li { margin: 0.5rem 0; }
+  a { color: #2563eb; text-decoration: underline; text-decoration-color: rgba(37,99,235,0.45); text-underline-offset: 2px; }
+  a:hover { text-decoration-color: currentColor; }
+  @media (prefers-color-scheme: dark) {
+    a { color: #7aa2f7; text-decoration-color: rgba(122,162,247,0.45); }
+  }
+  .date { color: #888; font-size: 0.85rem; margin-left: 0.5rem; }
+  .item { margin: 1.5rem 0; }
+  .item h3 { margin-bottom: 0.3rem; font-size: 1.05rem; }
+  .item p { margin: 0.3rem 0; }
+</style>
+</head>
+<body>
+<h1>AI Daily Digest</h1>
+<p><a href="../index.html">&larr; Back to all digests</a></p>
+<p class="date">2026-08-15</p>
+
+<h2>Industry &amp; Product News</h2>
+
+<div class="item">
+<h3>Google launches Gemini 3.7 Flash for coding and agent workloads</h3>
+<p>Google's new workhorse model targets coding, agentic workflows, and knowledge-intensive tasks, with its FrontierCode 1.1 score jumping from 34.4% to 43.6% over the prior Flash release. It ships with a 1M-token context window and a 50% introductory price cut to $0.75/$3.75 per million input/output tokens through year-end.</p>
+<p><a href="https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut">VentureBeat</a></p>
+</div>
+
+<div class="item">
+<h3>DeepSeek quietly ships V4 Pro's official GA release</h3>
+<p>DeepSeek-V4-Pro-0813 replaces the preview build with no blog post or announcement beyond an API changelog entry, adding stronger agentic capabilities. Early testing suggests it underperforms on some general benchmarks but shows unusually strong results in cybersecurity tasks; DeepSeek has also warned API prices could rise up to 12x under new peak-hour pricing starting August 17.</p>
+<p><a href="https://www.scmp.com/tech/big-tech/article/3363895/deepseeks-updated-v4-pro-ai-model-struggles-benchmarks-shines-cybersecurity">South China Morning Post</a></p>
+</div>
+
+<div class="item">
+<h3>OpenAI previews "Ultrafast" mode, running GPT-5.6 Sol 14x faster on Cerebras chips</h3>
+<p>The new API tier, built on Cerebras hardware, pushes GPT-5.6 Sol to up to 750 output tokens per second with no quality loss versus standard processing, delivering a 5.6x end-to-end speedup on OpenAI's GDP-Val knowledge-work benchmark. Access is currently limited to a select group of customers.</p>
+<p><a href="https://openai.com/index/previewing-ultrafast/">OpenAI</a></p>
+</div>
+
+<div class="item">
+<h3>Apple built its own AI model for China with help from rival Alibaba</h3>
+<p>Rather than licensing a third-party model as originally planned, Apple trained a proprietary LLM for Apple Intelligence in China with Alibaba's assistance, making it the first foreign company approved by Beijing to offer a proprietary AI model there. Alibaba's Qwen is also expected to power some Apple Intelligence features for Chinese users when the rollout lands in the coming months.</p>
+<p><a href="https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/">MacRumors</a></p>
+</div>
+
+<div class="item">
+<h3>Anthropic's off-balance-sheet chip debt hits $71B in two months</h3>
+<p>Special purpose vehicles have stacked roughly $71 billion in chip-lease debt on Anthropic's behalf since June, buying Google TPUs and leasing them back so the hardware and its financing never touch Anthropic's own balance sheet. The structure - backstopped in part by Broadcom - keeps Anthropic's compute buildout from diluting equity ahead of its planned IPO.</p>
+<p><a href="https://finance.yahoo.com/technology/ai/articles/anthropic-spvs-stack-71-billion-000514097.html">Yahoo Finance</a></p>
+</div>
+
+<h2>Research Papers</h2>
+
+<div class="item">
+<h3>Stealing Reasoning Traces from Proprietary LLM APIs</h3>
+<p>Researchers found that the encrypted chain-of-thought blocks providers like Anthropic, OpenAI, and Google return to clients are interchangeable across sessions and models within a provider - letting an attacker feed a stronger model's encrypted trace into a weaker, less-guarded model to force it to decrypt and print the reasoning in plaintext. The technique also surfaced 182 leaked credentials and 367 PII artifacts sitting in publicly available reasoning blocks.</p>
+<p><a href="https://arxiv.org/abs/2608.09867">arXiv:2608.09867</a></p>
+</div>
+
+<div class="item">
+<h3>Do Influence Tactics Matter? Investigating Prompt Framing Effects in LLM Code Generation</h3>
+<p>Borrowing a classic taxonomy of workplace persuasion tactics (rational persuasion, ingratiation, exchange, and others), researchers turned each into a reproducible prompt template and tested whether "persuading" an LLM changes its coding output quality. The framing measurably shifts results, suggesting prompt engineering has more in common with human influence tactics than commonly assumed.</p>
+<p><a href="https://arxiv.org/abs/2608.11513">arXiv:2608.11513</a></p>
+</div>
+
+</body>
+</html>
