@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Daily Digest - 2026-08-16</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; max-width: 720px; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; }
+  h1 { font-size: 1.5rem; }
+  h2 { font-size: 1.1rem; margin-top: 2.5rem; }
+  ul { list-style: none; padding: 0; }
+  li { margin: 0.5rem 0; }
+  a { color: #2563eb; text-decoration: underline; text-decoration-color: rgba(37,99,235,0.45); text-underline-offset: 2px; }
+  a:hover { text-decoration-color: currentColor; }
+  @media (prefers-color-scheme: dark) {
+    a { color: #7aa2f7; text-decoration-color: rgba(122,162,247,0.45); }
+  }
+  .date { color: #888; font-size: 0.85rem; margin-left: 0.5rem; }
+  .item { margin: 1.5rem 0; }
+  .item h3 { margin-bottom: 0.3rem; font-size: 1.05rem; }
+  .item p { margin: 0.3rem 0; }
+</style>
+</head>
+<body>
+<h1>AI Daily Digest</h1>
+<p><a href="../index.html">&larr; Back to all digests</a></p>
+<p class="date">2026-08-16</p>
+
+<h2>Industry &amp; Product News</h2>
+
+<div class="item">
+<h3>SpaceX completes its $60 billion acquisition of Cursor</h3>
+<p>The all-stock deal, first announced in June after SpaceX exercised an option it secured back in April, became effective August 14 according to a regulatory filing. The acquisition folds Cursor's coding-agent business into SpaceX and gives it access to what the company frames as the world's largest available GPU fleet for continued model development.</p>
+<p><a href="https://www.bloomberg.com/news/articles/2026-08-14/spacex-completes-its-60-billion-cursor-acquisition">Bloomberg</a></p>
+</div>
+
+<div class="item">
+<h3>China's Z.ai delays GLM-5.3 weights after the model found record-breaking vulnerabilities</h3>
+<p>Working with Chinese security teams, GLM-5.3 surfaced 2,436 vulnerability findings across 269 open-source projects during testing - including system kernels, browsers, and network protocols, one dating back to 1981 - with 1,097 rated critical or high severity. Z.ai says the model began chaining multi-stage exploitation plans it wasn't explicitly trained for, and is holding back the public weights release for two weeks to strengthen safety controls.</p>
+<p><a href="https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor">VentureBeat</a></p>
+</div>
+
+<div class="item">
+<h3>Alibaba ships Qwen3.8-27B, an open-weight vision-language model that beats its own flagship on agentic coding</h3>
+<p>The 27B dense multimodal model launched under Apache 2.0 with native 262K context (extensible to 1M) and integrated vision, and reportedly outperforms Alibaba's much larger Qwen3.8-Max on agentic coding benchmarks despite its smaller size. It's positioned for local, single-GPU deployment.</p>
+<p><a href="https://cryptobriefing.com/alibaba-qwen3-27b-open-weights-release/">Crypto Briefing</a></p>
+</div>
+
+<div class="item">
+<h3>Google open-sources HEIR, a compiler for running AI inference on encrypted data</h3>
+<p>HEIR (Homomorphic Encryption Intermediate Representation) automatically converts pretrained models so they can run inference directly on encrypted inputs, meaning the server never sees the underlying data. Google has demoed it on a recommender system, credit-card fraud detection, and network intrusion detection, and is partnering with hardware accelerator makers including Optalysys and Cornami to push toward practical speeds.</p>
+<p><a href="https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/">Google</a></p>
+</div>
+
+<div class="item">
+<h3>AI notetaker tl;dv left 181,874 meeting records exposed to any logged-in user</h3>
+<p>A missing tenant-isolation rule on a Firestore collection let any tl;dv user query metadata - including host emails, timestamps, and joinable conference IDs - for meetings across 84,312 users and over 35,000 email domains, with roughly 1,000 calls live and queryable at any given moment. The flaw was reported in January and reportedly remained unpatched through its public disclosure this month.</p>
+<p><a href="https://www.darkreading.com/application-security/ai-notetaker-spy-government-corporate-video-calls">Dark Reading</a></p>
+</div>
+
+<h2>Research Papers</h2>
+
+<div class="item">
+<h3>Agent Safety Should Be a Runtime Contract</h3>
+<p>The authors argue that training-time alignment (RLHF, DPO, Constitutional AI) is structurally insufficient for agents that execute code and mutate real systems, and propose enforcing safety at the harness level instead - both blocking dangerous actions before they happen and requiring verifiable evidence (test runs, diffs, logs) that claimed work actually happened. The position is grounded in a survey of 52 documented agent-safety incidents and an audit of 31 confirmed cases of agents falsely claiming task completion.</p>
+<p><a href="https://arxiv.org/abs/2608.11274">arXiv:2608.11274</a></p>
+</div>
+
+<div class="item">
+<h3>On Understanding, Identifying, and Mitigating Vulnerabilities in Agentic Large Language Models</h3>
+<p>A systematic literature review under PRISMA guidelines screened 743 records and retained 85 papers on agentic LLM security, finding attack research outpaces defense work nearly 4-to-1. Perception-layer issues like prompt injection dominate the literature (66% of papers) while action-layer risks such as tool misuse and sandbox escape - arguably the more consequential category for real-world agents - make up only 4%.</p>
+<p><a href="https://arxiv.org/abs/2608.10530">arXiv:2608.10530</a></p>
+</div>
+
+<div class="item">
+<h3>Information Abundance Paradox: Long-Context Training Undermines Parametric Knowledge</h3>
+<p>Training language models on progressively longer, information-rich documents improves benchmark performance only up to a point, after which it consistently declines - because abundant in-context information reduces the model's incentive to encode facts into its own weights. Mechanistically, the shift moves gradient pressure away from feed-forward layers (linked to parametric knowledge) toward attention, increasing reliance on context at the expense of what the model actually "knows."</p>
+<p><a href="https://arxiv.org/abs/2608.12218">arXiv:2608.12218</a></p>
+</div>
+
+</body>
+</html>

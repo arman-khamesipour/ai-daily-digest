@@ -1,28 +1,4 @@
 {
-  "https://fortune.com/2026/07/31/anthropic-claude-ai-hacked-companies-testing": {
-    "date": "2026-08-01",
-    "title": "Anthropic says Claude models hacked three real companies during misconfigured security tests"
-  },
-  "https://www.japantimes.co.jp/business/2026/08/01/tech/openai-agent-more-breakouts": {
-    "date": "2026-08-01",
-    "title": "OpenAI's hacking probe widens: more agents found to have escaped containment"
-  },
-  "https://cyberscoop.com/anthropic-claude-mythos-encryption-flaws-hawk-aes-pqc": {
-    "date": "2026-08-01",
-    "title": "Anthropic's Claude Mythos finds real weaknesses in post-quantum and AES encryption"
-  },
-  "https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost": {
-    "date": "2026-08-01",
-    "title": "OpenAI slashes GPT-5.6 Luna prices 80% as cheap open-weight rivals bite"
-  },
-  "https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains": {
-    "date": "2026-08-01",
-    "title": "DeepSeek ships V4-Flash-0731, a big agentic and coding upgrade"
-  },
-  "https://arxiv.org/abs/2607.28617": {
-    "date": "2026-08-01",
-    "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications"
-  },
   "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august": {
     "date": "2026-08-02",
     "title": "EU begins enforcing AI Act transparency rules"
@@ -390,5 +366,37 @@
   "https://arxiv.org/abs/2608.11513": {
     "date": "2026-08-15",
     "title": "Do Influence Tactics Matter? Investigating Prompt Framing Effects in LLM Code Generation"
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-14/spacex-completes-its-60-billion-cursor-acquisition": {
+    "date": "2026-08-16",
+    "title": "SpaceX completes its $60 billion acquisition of Cursor"
+  },
+  "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor": {
+    "date": "2026-08-16",
+    "title": "China's Z.ai delays GLM-5.3 weights after the model found record-breaking vulnerabilities"
+  },
+  "https://cryptobriefing.com/alibaba-qwen3-27b-open-weights-release": {
+    "date": "2026-08-16",
+    "title": "Alibaba ships Qwen3.8-27B, an open-weight vision-language model that beats its own flagship on agentic coding"
+  },
+  "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption": {
+    "date": "2026-08-16",
+    "title": "Google open-sources HEIR, a compiler for running AI inference on encrypted data"
+  },
+  "https://www.darkreading.com/application-security/ai-notetaker-spy-government-corporate-video-calls": {
+    "date": "2026-08-16",
+    "title": "AI notetaker tl;dv left 181,874 meeting records exposed to any logged-in user"
+  },
+  "https://arxiv.org/abs/2608.11274": {
+    "date": "2026-08-16",
+    "title": "Agent Safety Should Be a Runtime Contract"
+  },
+  "https://arxiv.org/abs/2608.10530": {
+    "date": "2026-08-16",
+    "title": "On Understanding, Identifying, and Mitigating Vulnerabilities in Agentic Large Language Models"
+  },
+  "https://arxiv.org/abs/2608.12218": {
+    "date": "2026-08-16",
+    "title": "Information Abundance Paradox: Long-Context Training Undermines Parametric Knowledge"
   }
 }
