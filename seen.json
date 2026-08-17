@@ -1,28 +1,4 @@
 {
-  "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august": {
-    "date": "2026-08-02",
-    "title": "EU begins enforcing AI Act transparency rules"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/white-house-ai-framework-deadline-002011007.html": {
-    "date": "2026-08-02",
-    "title": "White House's frontier-AI review framework deadline lapses with no public deliverables"
-  },
-  "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a": {
-    "date": "2026-08-02",
-    "title": "Synthetic-user startup Simile raises $200M at a $2B valuation"
-  },
-  "https://arxiv.org/abs/2607.25379": {
-    "date": "2026-08-02",
-    "title": "Cyber-Capable AI Agents: Vulnerabilities, Evaluation Containment, and Defensive Response"
-  },
-  "https://arxiv.org/abs/2607.27294": {
-    "date": "2026-08-02",
-    "title": "AgentS4D: Benchmarking Runtime Risks across the Execution Lifecycle of LLM-Based Workspace Agents"
-  },
-  "https://arxiv.org/abs/2607.22098": {
-    "date": "2026-08-02",
-    "title": "Reasoning Denoiser: Denoising Reasoning Traces for Hallucination Detection in Large Reasoning Models"
-  },
   "https://siliconangle.com/2026/08/02/openais-astra-solves-10-long-open-math-problems-publishes-proofs": {
     "date": "2026-08-03",
     "title": "OpenAI's Astra solves ten decades-old math and CS problems"
@@ -398,5 +374,25 @@
   "https://arxiv.org/abs/2608.12218": {
     "date": "2026-08-16",
     "title": "Information Abundance Paradox: Long-Context Training Undermines Parametric Knowledge"
+  },
+  "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b": {
+    "date": "2026-08-17",
+    "title": "Stripe reportedly closes $7B+ acquisition of AI gateway OpenRouter"
+  },
+  "https://fortune.com/2026/08/15/alibaba-qwen-open-ai-models-3-billion-downloads-meta-google": {
+    "date": "2026-08-17",
+    "title": "Alibaba's Qwen models pass 3 billion downloads, overtaking Meta and Google"
+  },
+  "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust": {
+    "date": "2026-08-17",
+    "title": "Anthropic's Amodei: AI backlash is a crisis of trust"
+  },
+  "https://arxiv.org/abs/2608.13482": {
+    "date": "2026-08-17",
+    "title": "Synthetic Persona Pretraining: Alignment from Token Zero"
+  },
+  "https://arxiv.org/abs/2608.13545": {
+    "date": "2026-08-17",
+    "title": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure"
   }
 }
