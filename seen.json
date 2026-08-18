@@ -1,24 +1,4 @@
 {
-  "https://siliconangle.com/2026/08/02/openais-astra-solves-10-long-open-math-problems-publishes-proofs": {
-    "date": "2026-08-03",
-    "title": "OpenAI's Astra solves ten decades-old math and CS problems"
-  },
-  "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html": {
-    "date": "2026-08-03",
-    "title": "Amazon raises 2026 capex to $220B as AWS posts fastest growth in 18 quarters"
-  },
-  "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html": {
-    "date": "2026-08-03",
-    "title": "Hacker wired DeepSeek into an autonomous attack pipeline after Claude, GPT declined"
-  },
-  "https://www.claycord.com/2026/08/02/new-california-ai-law-takes-effect-making-ai-content-easier-to-identify": {
-    "date": "2026-08-03",
-    "title": "California's AI Transparency Act takes effect, mandating content labels"
-  },
-  "https://arxiv.org/abs/2607.28618": {
-    "date": "2026-08-03",
-    "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis"
-  },
   "https://www.datacenterdynamics.com/en/news/chip-startup-olix-raises-312m-at-33bn-valuation-backed-by-uk-govt-sovereign-ai-venture-fund": {
     "date": "2026-08-04",
     "title": "UK chip startup Olix raises $312M at a $3.3B valuation to challenge Nvidia on inference"
@@ -394,5 +374,29 @@
   "https://arxiv.org/abs/2608.13545": {
     "date": "2026-08-17",
     "title": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure"
+  },
+  "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html": {
+    "date": "2026-08-18",
+    "title": "Nvidia commits up to $105B to finance OpenAI's Ohio data center"
+  },
+  "https://www.citybiz.co/article/889558/goldman-sachs-intel-back-higgsfield-in-400m-raise-at-5-4b-valuation": {
+    "date": "2026-08-18",
+    "title": "Higgsfield raises $400M Series B at a $5.4B valuation"
+  },
+  "https://www.itiger.com/news/1172288996": {
+    "date": "2026-08-18",
+    "title": "Unitree Robotics begins trading on Shanghai's STAR Market"
+  },
+  "https://arxiv.org/abs/2608.14392": {
+    "date": "2026-08-18",
+    "title": "Tripwire: Triggering Aligned Refusal via Statistically Certified Safety Neurons"
+  },
+  "https://arxiv.org/abs/2608.14380": {
+    "date": "2026-08-18",
+    "title": "AgentRewind: Recoverable Execution for Long-Horizon LLM Agents"
+  },
+  "https://arxiv.org/abs/2608.14379": {
+    "date": "2026-08-18",
+    "title": "Reflex: Enabling Fast and Predictive Vision-Language-Action Models for Reaction-Critical Manipulation"
   }
 }
