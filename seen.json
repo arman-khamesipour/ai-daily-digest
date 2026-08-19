@@ -1,32 +1,4 @@
 {
-  "https://www.datacenterdynamics.com/en/news/chip-startup-olix-raises-312m-at-33bn-valuation-backed-by-uk-govt-sovereign-ai-venture-fund": {
-    "date": "2026-08-04",
-    "title": "UK chip startup Olix raises $312M at a $3.3B valuation to challenge Nvidia on inference"
-  },
-  "https://www.techmeme.com/260802/p16": {
-    "date": "2026-08-04",
-    "title": "Alibaba pushes Qwen3.8-Max into wider access, claims an edge on some Kimi K3 benchmarks"
-  },
-  "https://fortune.com/2026/08/03/softbank-hitachi-lg-back-zenitys-125-million-round-to-police-ai-agents": {
-    "date": "2026-08-04",
-    "title": "Zenity raises $125M to secure enterprise AI agents"
-  },
-  "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem": {
-    "date": "2026-08-04",
-    "title": "Marc Benioff-backed startup June emerges from stealth to fix enterprise AI deployment"
-  },
-  "https://www.testingcatalog.com/exclusive-microsoft-tests-new-mai-realtime-voice-model": {
-    "date": "2026-08-04",
-    "title": "Microsoft's next voice model, MAI-Realtime, spotted in early preview"
-  },
-  "https://arxiv.org/abs/2607.28685": {
-    "date": "2026-08-04",
-    "title": "Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks"
-  },
-  "https://arxiv.org/abs/2607.29602": {
-    "date": "2026-08-04",
-    "title": "FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models"
-  },
   "https://www.anthropic.com/news/tino-cuellar": {
     "date": "2026-08-05",
     "title": "Anthropic names Tino Cuéllar as its first Chief Global Affairs Officer"
@@ -398,5 +370,33 @@
   "https://arxiv.org/abs/2608.14379": {
     "date": "2026-08-18",
     "title": "Reflex: Enabling Fast and Predictive Vision-Language-Action Models for Reaction-Critical Manipulation"
+  },
+  "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach": {
+    "date": "2026-08-19",
+    "title": "OpenAI tightens safety monitoring after Hugging Face breach"
+  },
+  "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it": {
+    "date": "2026-08-19",
+    "title": "OpenAI launches ChatGPT for Teens"
+  },
+  "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development": {
+    "date": "2026-08-19",
+    "title": "Warp launches Warp Factories, an out-of-the-box software factory for AI coding"
+  },
+  "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud": {
+    "date": "2026-08-19",
+    "title": "Groq raises $350M at a $3.5B valuation, pivoting from chips to neocloud"
+  },
+  "https://arxiv.org/abs/2608.16884": {
+    "date": "2026-08-19",
+    "title": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve"
+  },
+  "https://arxiv.org/abs/2608.18066": {
+    "date": "2026-08-19",
+    "title": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification"
+  },
+  "https://arxiv.org/abs/2608.17800": {
+    "date": "2026-08-19",
+    "title": "StartupBench: Benchmarking General-Purpose Agents on Market-Validated End-to-End Workflows"
   }
 }
