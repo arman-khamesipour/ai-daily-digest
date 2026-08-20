@@ -1,32 +1,4 @@
 {
-  "https://www.anthropic.com/news/tino-cuellar": {
-    "date": "2026-08-05",
-    "title": "Anthropic names Tino Cuéllar as its first Chief Global Affairs Officer"
-  },
-  "https://www.cnn.com/2026/08/03/tech/white-house-meet-with-top-ai-companies-big-regulation-push": {
-    "date": "2026-08-05",
-    "title": "White House to meet OpenAI, Anthropic, Google and other labs on a voluntary safety framework"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductors-ai-push-hits-202554417.html": {
-    "date": "2026-08-05",
-    "title": "TSMC reportedly pulling forward 3nm production to meet AI chip demand"
-  },
-  "https://www.techtimes.com/articles/322674/20260802/ai4-2026-opens-tuesday-hinton-ng-face-off-ais-existential-stakes.htm": {
-    "date": "2026-08-05",
-    "title": "Ai4 2026 opens with Hinton and Ng sparring over existential AI risk"
-  },
-  "https://arxiv.org/abs/2608.02412": {
-    "date": "2026-08-05",
-    "title": "Why Large Language Models Fail at Tabular Prediction"
-  },
-  "https://arxiv.org/abs/2608.02499": {
-    "date": "2026-08-05",
-    "title": "SWE-Touch: Benchmarking Coding Agents When Users Touch the Code"
-  },
-  "https://arxiv.org/abs/2608.01543": {
-    "date": "2026-08-05",
-    "title": "V-Mem: Modality-Routed Retrieval for Long-Term Multimodal Agentic Memory"
-  },
   "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup": {
     "date": "2026-08-06",
     "title": "Jeff Dean leaves Google after 27 years to co-found AI research startup Discovery Loop"
@@ -398,5 +370,33 @@
   "https://arxiv.org/abs/2608.17800": {
     "date": "2026-08-19",
     "title": "StartupBench: Benchmarking General-Purpose Agents on Market-Validated End-to-End Workflows"
+  },
+  "https://openai.com/index/chatgpt-ads-expands-across-europe": {
+    "date": "2026-08-20",
+    "title": "OpenAI expands ChatGPT Ads to 31 European markets"
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-19/openai-to-enhance-safety-processes-for-paid-tool-customers": {
+    "date": "2026-08-20",
+    "title": "OpenAI beefs up safety processes for paying users of its most advanced models"
+  },
+  "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-grok-4-6": {
+    "date": "2026-08-20",
+    "title": "Grok 4.6 goes live on Amazon Bedrock"
+  },
+  "https://www.unite.ai/glm-5-3-scores-60-on-artificial-analysis-intelligence-index-matching-kimi-k3": {
+    "date": "2026-08-20",
+    "title": "GLM-5.3 ties Kimi K3 for the top open-weights slot on Artificial Analysis's index"
+  },
+  "https://arxiv.org/abs/2608.16620": {
+    "date": "2026-08-20",
+    "title": "Palmyra x6 Technical Report: An Agentic, Tool-Use Model Post-Trained via Anchored Supervised Fine-Tuning"
+  },
+  "https://arxiv.org/abs/2608.14590": {
+    "date": "2026-08-20",
+    "title": "Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement"
+  },
+  "https://arxiv.org/abs/2608.17150": {
+    "date": "2026-08-20",
+    "title": "KnowSim: Evaluating Information Calibration in LLM Assistants with User Simulators that Learn"
   }
 }
