@@ -1,32 +1,4 @@
 {
-  "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup": {
-    "date": "2026-08-06",
-    "title": "Jeff Dean leaves Google after 27 years to co-found AI research startup Discovery Loop"
-  },
-  "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases": {
-    "date": "2026-08-06",
-    "title": "Meta launches Muse Code, a terminal coding agent for large repos"
-  },
-  "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta": {
-    "date": "2026-08-06",
-    "title": "Anthropic signs $10B compute deal with cloud startup Volta"
-  },
-  "https://www.anaconda.com/blog/anaconda-acquires-enkrypt-ai": {
-    "date": "2026-08-06",
-    "title": "Anaconda acquires AI-security startup Enkrypt AI"
-  },
-  "https://arxiv.org/abs/2607.22925": {
-    "date": "2026-08-06",
-    "title": "Not All LLM Reasoning is Visible in the Chain-of-Thought"
-  },
-  "https://arxiv.org/abs/2608.02442": {
-    "date": "2026-08-06",
-    "title": "Right Answer, Wrong Method: Shortcut Hacking Misleads the Evaluation of LLM Reasoning on Frontier Science Benchmarks"
-  },
-  "https://arxiv.org/abs/2608.01078": {
-    "date": "2026-08-06",
-    "title": "Attend to Your Own Thoughts: Breaking the Barrier for Post-Training Quantization of Reasoning LLMs through the Lens of 1.58-Bit Quantization"
-  },
   "https://fortune.com/2026/08/05/demis-hassabis-steps-down-google-deepmind-ai-shakeup": {
     "date": "2026-08-07",
     "title": "Demis Hassabis steps down as Google DeepMind CEO"
@@ -398,5 +370,37 @@
   "https://arxiv.org/abs/2608.17150": {
     "date": "2026-08-20",
     "title": "KnowSim: Evaluating Information Calibration in LLM Assistants with User Simulators that Learn"
+  },
+  "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html": {
+    "date": "2026-08-21",
+    "title": "Google secures option to buy $12.2B Marvell stake in expanded AI chip deal"
+  },
+  "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps": {
+    "date": "2026-08-21",
+    "title": "Meta ships a Meta AI Mac app that can see your screen and control your apps"
+  },
+  "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin": {
+    "date": "2026-08-21",
+    "title": "OpenAI adds a ChatGPT plug-in for Apple Messages"
+  },
+  "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router": {
+    "date": "2026-08-21",
+    "title": "Ramp launches its own AI model router, Router"
+  },
+  "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds": {
+    "date": "2026-08-21",
+    "title": "Study: a third of web pages since ChatGPT's launch show signs of AI authorship"
+  },
+  "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses": {
+    "date": "2026-08-21",
+    "title": "Google gives publishers new tools to fight AI-driven traffic losses"
+  },
+  "https://arxiv.org/abs/2608.19009": {
+    "date": "2026-08-21",
+    "title": "Grading the Graders: Verification Autonomy Levels (L0-L5) for LLM Reasoning"
+  },
+  "https://arxiv.org/abs/2608.18095": {
+    "date": "2026-08-21",
+    "title": "Backdoor Learning in Language Models and Vision-Language Models"
   }
 }
