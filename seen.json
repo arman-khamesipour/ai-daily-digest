@@ -1,32 +1,4 @@
 {
-  "https://fortune.com/2026/08/05/demis-hassabis-steps-down-google-deepmind-ai-shakeup": {
-    "date": "2026-08-07",
-    "title": "Demis Hassabis steps down as Google DeepMind CEO"
-  },
-  "https://www.axios.com/2026/08/06/openai-chatgpt-upgrades-luna-free-paid": {
-    "date": "2026-08-07",
-    "title": "OpenAI makes GPT-5.6 Luna the default ChatGPT model"
-  },
-  "https://www.liquid.ai/blog/lfm2-5-2-6b": {
-    "date": "2026-08-07",
-    "title": "Liquid AI ships a phone-ready on-device agent model, LFM2.5-2.6B"
-  },
-  "https://sierra.ai/blog/context-engine": {
-    "date": "2026-08-07",
-    "title": "Sierra launches Context Engine for long-running enterprise agents"
-  },
-  "https://arxiv.org/abs/2608.02859": {
-    "date": "2026-08-07",
-    "title": "The crisis of AI-generated mathematics"
-  },
-  "https://arxiv.org/abs/2608.02683": {
-    "date": "2026-08-07",
-    "title": "S3: Improving Agent Safety through Multi-Stage Defense"
-  },
-  "https://arxiv.org/abs/2608.04719": {
-    "date": "2026-08-07",
-    "title": "Diagnosing Tool-Selection Reasoning in LLM Agents with Canary Tools"
-  },
   "https://techstartups.com/2026/08/07/nvidia-backed-firmus-raises-2-billion-at-10-5-billion-valuation-to-build-ai-factories-across-asia-pacific": {
     "date": "2026-08-08",
     "title": "Nvidia-backed Firmus raises $2B, doubling its valuation to $10.5B"
@@ -402,5 +374,33 @@
   "https://arxiv.org/abs/2608.18095": {
     "date": "2026-08-21",
     "title": "Backdoor Learning in Language Models and Vision-Language Models"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/anthropic-could-file-ipo-month-181031063.html": {
+    "date": "2026-08-22",
+    "title": "Anthropic expects its IPO to match or beat SpaceX's record raise"
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says": {
+    "date": "2026-08-22",
+    "title": "Nvidia pays AI coding startup Poolside a $6B model license, plus a $10B investment"
+  },
+  "https://siliconangle.com/2026/08/20/broadcom-reportedly-seeking-up-to-100b-in-debt-financing-for-ai-chip-deal": {
+    "date": "2026-08-22",
+    "title": "Broadcom seeks up to $100B in debt to finance an AI chip deal tied to Anthropic"
+  },
+  "https://www.engadget.com/2241379/nevada-allows-uber-tesla-waymo-paid-robotaxis": {
+    "date": "2026-08-22",
+    "title": "Nevada clears Tesla, Waymo and Uber for thousands of paid robotaxi rides in Las Vegas"
+  },
+  "https://arxiv.org/abs/2608.20318": {
+    "date": "2026-08-22",
+    "title": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement"
+  },
+  "https://arxiv.org/abs/2608.19880": {
+    "date": "2026-08-22",
+    "title": "EnvHarness: Awakening Static Worlds for Agent Learning"
+  },
+  "https://arxiv.org/abs/2608.18398": {
+    "date": "2026-08-22",
+    "title": "LEDGER: Claim-to-Evidence Trace Graphs for Auditing LLM Agents"
   }
 }

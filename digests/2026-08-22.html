@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Daily Digest — 2026-08-22</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; max-width: 720px; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; }
+  h1 { font-size: 1.5rem; }
+  h2 { font-size: 1.1rem; margin-top: 2.5rem; }
+  ul { list-style: none; padding: 0; }
+  li { margin: 0.5rem 0; }
+  a { color: #2563eb; text-decoration: underline; text-decoration-color: rgba(37,99,235,0.45); text-underline-offset: 2px; }
+  a:hover { text-decoration-color: currentColor; }
+  @media (prefers-color-scheme: dark) {
+    a { color: #7aa2f7; text-decoration-color: rgba(122,162,247,0.45); }
+  }
+  .date { color: #888; font-size: 0.85rem; margin-left: 0.5rem; }
+  .item { margin: 1.5rem 0; }
+  .item h3 { margin: 0 0 0.25rem 0; font-size: 1.05rem; }
+  .item p { margin: 0.25rem 0; }
+  .back { margin-top: 2.5rem; display: block; }
+</style>
+</head>
+<body>
+<h1>AI Daily Digest</h1>
+<p class="date">2026-08-22</p>
+
+<h2>Industry &amp; Products</h2>
+
+<div class="item">
+<h3>Anthropic expects its IPO to match or beat SpaceX's record raise</h3>
+<p>Anthropic could file publicly for its offering as soon as the end of August, after confidentially submitting a draft S-1 in June. Reports peg its annualized revenue run rate at $65B in July, and the company is reportedly aiming for a share sale on the scale of SpaceX's record $75B–$86B debut.</p>
+<p><a href="https://finance.yahoo.com/technology/ai/articles/anthropic-could-file-ipo-month-181031063.html">Yahoo Finance</a></p>
+</div>
+
+<div class="item">
+<h3>Nvidia pays AI coding startup Poolside a $6B model license, plus a $10B investment</h3>
+<p>Nvidia is licensing Poolside's AI model-development software for roughly $6B and separately investing up to $10B in the startup at a $12B valuation, while extending job offers to over 100 Poolside staff working on its "Laguna" model project.</p>
+<p><a href="https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says">Bloomberg</a></p>
+</div>
+
+<div class="item">
+<h3>Broadcom seeks up to $100B in debt to finance an AI chip deal tied to Anthropic</h3>
+<p>Broadcom is reportedly in talks with lenders for a package of roughly $60–70B in senior secured debt plus $30B in junior financing, backing a custom AI chip arrangement that benefits Anthropic and other customers — the latest sign of AI capex increasingly being funded by debt rather than cash.</p>
+<p><a href="https://siliconangle.com/2026/08/20/broadcom-reportedly-seeking-up-to-100b-in-debt-financing-for-ai-chip-deal/">SiliconANGLE</a></p>
+</div>
+
+<div class="item">
+<h3>Nevada clears Tesla, Waymo and Uber for thousands of paid robotaxi rides in Las Vegas</h3>
+<p>The Nevada Transportation Authority approved AV network permits letting Tesla deploy up to 5,000 robotaxis and Waymo up to 1,000 over the next year, with Uber's Aviari also cleared to offer paid rides via partner fleets — a roughly 500x jump from Tesla's earlier interim allowance.</p>
+<p><a href="https://www.engadget.com/2241379/nevada-allows-uber-tesla-waymo-paid-robotaxis/">Engadget</a></p>
+</div>
+
+<h2>Research</h2>
+
+<div class="item">
+<h3>AI4AI-Bench: a benchmark for whether agents can actually improve how models are trained</h3>
+<p>The paper targets recursive self-improvement directly: it gives agents 10 frozen research repositories spanning distinct training-algorithm families (SFT, agentic RL, distillation, preference optimization, and more), then reruns submitted patches from a clean start to classify whether a claimed gain came from execution tricks, data, or a genuine change to the learning algorithm itself.</p>
+<p><a href="https://arxiv.org/abs/2608.20318">arXiv:2608.20318</a></p>
+</div>
+
+<div class="item">
+<h3>EnvHarness: making static training environments adapt to the agent</h3>
+<p>Most agent-training environments are hand-built and static, so they can't target an agent's specific weaknesses or keep pace as it improves. EnvHarness wraps a frozen environment in composable plug-in layers that reshape its behavior while preserving the original verifier, and reports skills learned this way beat both no-skill and original-environment baselines by up to 9 points across ALFWorld, WebArena, and SWE-bench Verified.</p>
+<p><a href="https://arxiv.org/abs/2608.19880">arXiv:2608.19880</a></p>
+</div>
+
+<div class="item">
+<h3>LEDGER: trace graphs for auditing what long-running LLM agents actually did</h3>
+<p>As agents take on longer technical workflows involving tool use, code execution, and file edits, the bottleneck shifts from producing output to verifying it's correct. LEDGER builds layered trace graphs that connect claims to the actions, artifacts, and checks that support them, aiming to make agent sessions reviewable after the fact rather than opaque.</p>
+<p><a href="https://arxiv.org/abs/2608.18398">arXiv:2608.18398</a></p>
+</div>
+
+<a class="back" href="../index.html">&larr; Back to all digests</a>
+</body>
+</html>
